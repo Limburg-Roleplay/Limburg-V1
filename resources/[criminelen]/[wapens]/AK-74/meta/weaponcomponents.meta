@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponComponentInfoBlob>
+	<Infos>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_AK74_CLIP_01</Name>
+			<Model>ak74_mag_01</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_AR_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<ClipSize value="30"/>
+			<AmmoInfo/>
+			<ReloadData ref="RELOAD_DEFAULT"/>
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_AK74_CLIP_02</Name>
+			<Model>ak74_mag_02</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_AR_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<ClipSize value="30"/>
+			<AmmoInfo/>
+			<ReloadData ref="RELOAD_DEFAULT"/>
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_AK74_CLIP_03</Name>
+			<Model>ak74_mag_03</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_AR_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<ClipSize value="30"/>
+			<AmmoInfo/>
+			<ReloadData ref="RELOAD_DEFAULT"/>
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_AK74_CLIP_04</Name>
+			<Model>ak74_mag_04</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_AR_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<ClipSize value="30"/>
+			<AmmoInfo/>
+			<ReloadData ref="RELOAD_DEFAULT"/>
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_AK74_CLIP_05</Name>
+			<Model>ak74_mag_05</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_AR_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<ClipSize value="30"/>
+			<AmmoInfo/>
+			<ReloadData ref="RELOAD_DEFAULT"/>
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_AK74_CLIP_06</Name>
+			<Model>ak74_mag_06</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_AR_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<ClipSize value="45"/>
+			<AmmoInfo/>
+			<ReloadData ref="RELOAD_DEFAULT"/>
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_AK74_CLIP_07</Name>
+			<Model>ak74_mag_07</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_AR_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<ClipSize value="45"/>
+			<AmmoInfo/>
+			<ReloadData ref="RELOAD_DEFAULT"/>
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_AK74_CLIP_08</Name>
+			<Model>ak74_mag_08</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_AR_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<ClipSize value="60"/>
+			<AmmoInfo/>
+			<ReloadData ref="RELOAD_DEFAULT"/>
+		</Item>
+		<Item type="CWeaponComponentClipInfo">
+			<Name>COMPONENT_AK74_CLIP_09</Name>
+			<Model>ak74_mag_09</Model>
+			<LocName>WCT_CLIP1</LocName>
+			<LocDesc>WCD_AR_CLIP1</LocDesc>
+			<AttachBone>AAPClip</AttachBone>
+			<WeaponAttachBone>WAPClip</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<ClipSize value="95"/>
+			<AmmoInfo/>
+			<ReloadData ref="RELOAD_EXTRA_LARGE"/>
+		</Item>	
+		<Item type="CWeaponComponentFlashLightInfo">
+			<Name>COMPONENT_AK74_FLSH_01</Name>
+			<Model>ak74_flsh_01</Model>
+			<LocName>WCT_FLASH</LocName>
+			<LocDesc>WCD_FLASH</LocDesc>
+			<AttachBone>AAPFlsh</AttachBone>
+			<WeaponAttachBone>WAPFlshLasr</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<MainLightIntensity value="6.000000"/>
+			<MainLightColor value="0xFFC9C9FF"/>
+			<MainLightRange value="30.000000"/>
+			<MainLightFalloffExponent value="32.000000"/>
+			<MainLightInnerAngle value="0.000000"/>
+			<MainLightOuterAngle value="20.000000"/>
+			<MainLightCoronaIntensity value="3.000000"/>
+			<MainLightCoronaSize value="0.200000"/>
+			<MainLightVolumeIntensity value="0.300000"/>
+			<MainLightVolumeSize value="0.100000"/>
+			<MainLightVolumeExponent value="70.000000"/>
+			<MainLightVolumeOuterColor value="0xFF050E3B"/>
+			<MainLightShadowFadeDistance value="10.000000"/>
+			<MainLightSpecularFadeDistance value="10.000000"/>
+			<SecondaryLightIntensity value="4.000000"/>
+			<SecondaryLightColor value="0xFFFFFFFF"/>
+			<SecondaryLightRange value="6.000000"/>
+			<SecondaryLightFalloffExponent value="64.000000"/>
+			<SecondaryLightInnerAngle value="0.000000"/>
+			<SecondaryLightOuterAngle value="40.000000"/>
+			<SecondaryLightVolumeIntensity value="0.300000"/>
+			<SecondaryLightVolumeSize value="0.400000"/>
+			<SecondaryLightVolumeExponent value="24.000000"/>
+			<SecondaryLightVolumeOuterColor value="0xFF000F85"/>
+			<SecondaryLightFadeDistance value="10.000000"/>
+			<fTargetDistalongAimCamera value="8.000000"/>
+			<FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+			<FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+			<FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+		</Item>
+		<Item type="CWeaponComponentFlashLightInfo">
+			<Name>COMPONENT_AK74_FLSH_02</Name>
+			<Model>ak74_flsh_02</Model>
+			<LocName>WCT_FLASH</LocName>
+			<LocDesc>WCD_FLASH</LocDesc>
+			<AttachBone>AAPFlsh</AttachBone>
+			<WeaponAttachBone>WAPFlshLasr</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<MainLightIntensity value="6.000000"/>
+			<MainLightColor value="0xFFC9C9FF"/>
+			<MainLightRange value="30.000000"/>
+			<MainLightFalloffExponent value="32.000000"/>
+			<MainLightInnerAngle value="0.000000"/>
+			<MainLightOuterAngle value="20.000000"/>
+			<MainLightCoronaIntensity value="3.000000"/>
+			<MainLightCoronaSize value="0.200000"/>
+			<MainLightVolumeIntensity value="0.300000"/>
+			<MainLightVolumeSize value="0.100000"/>
+			<MainLightVolumeExponent value="70.000000"/>
+			<MainLightVolumeOuterColor value="0xFF050E3B"/>
+			<MainLightShadowFadeDistance value="10.000000"/>
+			<MainLightSpecularFadeDistance value="10.000000"/>
+			<SecondaryLightIntensity value="4.000000"/>
+			<SecondaryLightColor value="0xFFFFFFFF"/>
+			<SecondaryLightRange value="6.000000"/>
+			<SecondaryLightFalloffExponent value="64.000000"/>
+			<SecondaryLightInnerAngle value="0.000000"/>
+			<SecondaryLightOuterAngle value="40.000000"/>
+			<SecondaryLightVolumeIntensity value="0.300000"/>
+			<SecondaryLightVolumeSize value="0.400000"/>
+			<SecondaryLightVolumeExponent value="24.000000"/>
+			<SecondaryLightVolumeOuterColor value="0xFF000F85"/>
+			<SecondaryLightFadeDistance value="10.000000"/>
+			<fTargetDistalongAimCamera value="8.000000"/>
+			<FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+			<FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+			<FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+		</Item>
+		<Item type="CWeaponComponentFlashLightInfo">
+			<Name>COMPONENT_AK74_FLSH_03</Name>
+			<Model>ak74_flsh_03</Model>
+			<LocName>WCT_FLASH</LocName>
+			<LocDesc>WCD_FLASH</LocDesc>
+			<AttachBone>AAPFlsh</AttachBone>
+			<WeaponAttachBone>WAPFlshLasr</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<MainLightIntensity value="6.000000"/>
+			<MainLightColor value="0xFFC9C9FF"/>
+			<MainLightRange value="30.000000"/>
+			<MainLightFalloffExponent value="32.000000"/>
+			<MainLightInnerAngle value="0.000000"/>
+			<MainLightOuterAngle value="20.000000"/>
+			<MainLightCoronaIntensity value="3.000000"/>
+			<MainLightCoronaSize value="0.200000"/>
+			<MainLightVolumeIntensity value="0.300000"/>
+			<MainLightVolumeSize value="0.100000"/>
+			<MainLightVolumeExponent value="70.000000"/>
+			<MainLightVolumeOuterColor value="0xFF050E3B"/>
+			<MainLightShadowFadeDistance value="10.000000"/>
+			<MainLightSpecularFadeDistance value="10.000000"/>
+			<SecondaryLightIntensity value="4.000000"/>
+			<SecondaryLightColor value="0xFFFFFFFF"/>
+			<SecondaryLightRange value="6.000000"/>
+			<SecondaryLightFalloffExponent value="64.000000"/>
+			<SecondaryLightInnerAngle value="0.000000"/>
+			<SecondaryLightOuterAngle value="40.000000"/>
+			<SecondaryLightVolumeIntensity value="0.300000"/>
+			<SecondaryLightVolumeSize value="0.400000"/>
+			<SecondaryLightVolumeExponent value="24.000000"/>
+			<SecondaryLightVolumeOuterColor value="0xFF000F85"/>
+			<SecondaryLightFadeDistance value="10.000000"/>
+			<fTargetDistalongAimCamera value="8.000000"/>
+			<FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+			<FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+			<FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+		</Item>
+		<Item type="CWeaponComponentFlashLightInfo">
+			<Name>COMPONENT_AK74_FLSH_04</Name>
+			<Model>ak74_flsh_04</Model>
+			<LocName>WCT_FLASH</LocName>
+			<LocDesc>WCD_FLASH</LocDesc>
+			<AttachBone>AAPFlsh</AttachBone>
+			<WeaponAttachBone>WAPFlshLasr</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<MainLightIntensity value="6.000000"/>
+			<MainLightColor value="0xFFC9C9FF"/>
+			<MainLightRange value="30.000000"/>
+			<MainLightFalloffExponent value="32.000000"/>
+			<MainLightInnerAngle value="0.000000"/>
+			<MainLightOuterAngle value="20.000000"/>
+			<MainLightCoronaIntensity value="3.000000"/>
+			<MainLightCoronaSize value="0.200000"/>
+			<MainLightVolumeIntensity value="0.300000"/>
+			<MainLightVolumeSize value="0.100000"/>
+			<MainLightVolumeExponent value="70.000000"/>
+			<MainLightVolumeOuterColor value="0xFF050E3B"/>
+			<MainLightShadowFadeDistance value="10.000000"/>
+			<MainLightSpecularFadeDistance value="10.000000"/>
+			<SecondaryLightIntensity value="4.000000"/>
+			<SecondaryLightColor value="0xFFFFFFFF"/>
+			<SecondaryLightRange value="6.000000"/>
+			<SecondaryLightFalloffExponent value="64.000000"/>
+			<SecondaryLightInnerAngle value="0.000000"/>
+			<SecondaryLightOuterAngle value="40.000000"/>
+			<SecondaryLightVolumeIntensity value="0.300000"/>
+			<SecondaryLightVolumeSize value="0.400000"/>
+			<SecondaryLightVolumeExponent value="24.000000"/>
+			<SecondaryLightVolumeOuterColor value="0xFF000F85"/>
+			<SecondaryLightFadeDistance value="10.000000"/>
+			<fTargetDistalongAimCamera value="8.000000"/>
+			<FlashLightBone>Gun_FLMuzzle</FlashLightBone>
+			<FlashLightBoneBulbOn>Bulb_On</FlashLightBoneBulbOn>
+			<FlashLightBoneBulbOff>Bulb_Off</FlashLightBoneBulbOff>
+		</Item>			
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AK74_GRIP_01</Name>
+			<Model>ak74_grip_01</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<WeaponAttachBone>WAPGrip</WeaponAttachBone>
+			<AccuracyModifier type="CWeaponAccuracyModifier">
+				<AccuracyModifier value="1.100000"/>
+			</AccuracyModifier>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AK74_GRIP_02</Name>
+			<Model>ak74_grip_02</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<WeaponAttachBone>WAPGrip</WeaponAttachBone>
+			<AccuracyModifier type="CWeaponAccuracyModifier">
+				<AccuracyModifier value="1.100000"/>
+			</AccuracyModifier>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AK74_GRIP_03</Name>
+			<Model>ak74_grip_03</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<WeaponAttachBone>WAPGrip</WeaponAttachBone>
+			<AccuracyModifier type="CWeaponAccuracyModifier">
+				<AccuracyModifier value="1.100000"/>
+			</AccuracyModifier>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AK74_GRIP_04</Name>
+			<Model>ak74_grip_04</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<WeaponAttachBone>WAPGrip</WeaponAttachBone>
+			<AccuracyModifier type="CWeaponAccuracyModifier">
+				<AccuracyModifier value="1.100000"/>
+			</AccuracyModifier>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AK74_GRIP_05</Name>
+			<Model>ak74_grip_05</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<WeaponAttachBone>WAPGrip</WeaponAttachBone>
+			<AccuracyModifier type="CWeaponAccuracyModifier">
+				<AccuracyModifier value="1.100000"/>
+			</AccuracyModifier>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AK74_GRIP_06</Name>
+			<Model>ak74_grip_06</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<WeaponAttachBone>WAPGrip</WeaponAttachBone>
+			<AccuracyModifier type="CWeaponAccuracyModifier">
+				<AccuracyModifier value="1.100000"/>
+			</AccuracyModifier>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AK74_GRIP_07</Name>
+			<Model>ak74_grip_07</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<WeaponAttachBone>WAPGrip</WeaponAttachBone>
+			<AccuracyModifier type="CWeaponAccuracyModifier">
+				<AccuracyModifier value="1.100000"/>
+			</AccuracyModifier>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AK74_GRIP_08</Name>
+			<Model>ak74_grip_08</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<WeaponAttachBone>WAPGrip</WeaponAttachBone>
+			<AccuracyModifier type="CWeaponAccuracyModifier">
+				<AccuracyModifier value="1.100000"/>
+			</AccuracyModifier>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AK74_GRIP_09</Name>
+			<Model>ak74_grip_09</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<WeaponAttachBone>WAPGrip</WeaponAttachBone>
+			<AccuracyModifier type="CWeaponAccuracyModifier">
+				<AccuracyModifier value="1.100000"/>
+			</AccuracyModifier>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AK74_GRIP_10</Name>
+			<Model>ak74_grip_10</Model>
+			<LocName>WCT_GRIP</LocName>
+			<LocDesc>WCD_GRIP</LocDesc>
+			<AttachBone>AAPGrip</AttachBone>
+			<WeaponAttachBone>WAPGrip</WeaponAttachBone>
+			<AccuracyModifier type="CWeaponAccuracyModifier">
+				<AccuracyModifier value="1.100000"/>
+			</AccuracyModifier>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+		</Item>			
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_AK74_MUZ_01</Name>
+			<Model>ak74_muz_01</Model>
+			<LocName></LocName>
+			<LocDesc></LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<WeaponAttachBone>WAPSupp</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="-5"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_assault_rifle</FlashFx>
+            <ShouldSilence value="false" />		
+		</Item>	
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_AK74_MUZ_02</Name>
+			<Model>ak74_muz_02</Model>
+			<LocName></LocName>
+			<LocDesc></LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<WeaponAttachBone>WAPSupp</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="-5"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_assault_rifle</FlashFx>
+            <ShouldSilence value="false" />		
+		</Item>	
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_AK74_MUZ_03</Name>
+			<Model>ak74_muz_03</Model>
+			<LocName></LocName>
+			<LocDesc></LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<WeaponAttachBone>WAPSupp</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="-5"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_assault_rifle</FlashFx>
+            <ShouldSilence value="false" />		
+		</Item>	
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_AK74_MUZ_04</Name>
+			<Model>ak74_muz_04</Model>
+			<LocName></LocName>
+			<LocDesc></LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<WeaponAttachBone>WAPSupp</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="-5"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_assault_rifle</FlashFx>
+            <ShouldSilence value="false" />		
+		</Item>			
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_AK74_MUZ_05</Name>
+			<Model>ak74_muz_05</Model>
+			<LocName>WCT_SUPP</LocName>
+			<LocDesc>WCD_AR_SUPP2</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<WeaponAttachBone>WAPSupp</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="-5"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="-5"/>
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_pistol_silencer</FlashFx>
+			<FlashFxLightEnabled value="false" />
+			<FlashFxLightIntensityMinMax x="0.400000" y="0.500000" />
+		</Item>		
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_AK74_MUZ_06</Name>
+			<Model>ak74_muz_06</Model>
+			<LocName>WCT_SUPP</LocName>
+			<LocDesc>WCD_AR_SUPP2</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<WeaponAttachBone>WAPSupp</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="-5"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="-5"/>
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_pistol_silencer</FlashFx>
+		</Item>	
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_AK74_MUZ_07</Name>
+			<Model>ak74_muz_07</Model>
+			<LocName>WCT_SUPP</LocName>
+			<LocDesc>WCD_AR_SUPP2</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<WeaponAttachBone>WAPSupp</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="-5"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="-5"/>
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_pistol_silencer</FlashFx>
+		</Item>	
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_AK74_MUZ_08</Name>
+			<Model>ak74_muz_08</Model>
+			<LocName>WCT_SUPP</LocName>
+			<LocDesc>WCD_AR_SUPP2</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<WeaponAttachBone>WAPSupp</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="-5"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="-5"/>
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_pistol_silencer</FlashFx>
+		</Item>	
+		<Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_AK74_MUZ_09</Name>
+			<Model>ak74_muz_09</Model>
+			<LocName>WCT_SUPP</LocName>
+			<LocDesc>WCD_AR_SUPP2</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<WeaponAttachBone>WAPSupp</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="-5"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="-5"/>
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_pistol_silencer</FlashFx>
+		</Item>			
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_AK74_SCOPE_01</Name>
+			<Model>ak74_scope_01</Model>
+			<LocName></LocName>
+			<LocDesc></LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<CameraHash/>
+			<ExtraZoomFactorForAccurateMode value="1.00000"/>
+			<Reticule value="0"/>
+			<ReticuleHash/>
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_AK74_SCOPE_02</Name>
+			<Model>ak74_scope_02</Model>
+			<LocName>WCT_SCOPE_MED</LocName>
+			<LocDesc>WCD_SCOPE_MED</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<CameraHash/>
+			<ExtraZoomFactorForAccurateMode value="1.200000"/>
+			<Reticule value="0"/>
+			<ReticuleHash/>
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_AK74_SCOPE_03</Name>
+			<Model>ak74_scope_03</Model>
+			<LocName>WCT_SCOPE_MED</LocName>
+			<LocDesc>WCD_SCOPE_MED</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<CameraHash/>
+			<ExtraZoomFactorForAccurateMode value="1.200000"/>
+			<Reticule value="0"/>
+			<ReticuleHash/>
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_AK74_SCOPE_04</Name>
+			<Model>ak74_scope_04</Model>
+			<LocName>WCT_SCOPE_MED</LocName>
+			<LocDesc>WCD_SCOPE_MED</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<CameraHash/>
+			<ExtraZoomFactorForAccurateMode value="1.200000"/>
+			<Reticule value="0"/>
+			<ReticuleHash/>
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_AK74_SCOPE_05</Name>
+			<Model>ak74_scope_05</Model>
+			<LocName>WCT_SCOPE_MED</LocName>
+			<LocDesc>WCD_SCOPE_MED</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<CameraHash/>
+			<ExtraZoomFactorForAccurateMode value="1.200000"/>
+			<Reticule value="0"/>
+			<ReticuleHash/>
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_AK74_SCOPE_06</Name>
+			<Model>ak74_scope_06</Model>
+			<LocName>WCT_SCOPE_MED</LocName>
+			<LocDesc>WCD_SCOPE_MED</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<CameraHash/>
+			<ExtraZoomFactorForAccurateMode value="1.200000"/>
+			<Reticule value="0"/>
+			<ReticuleHash/>
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_AK74_SCOPE_07</Name>
+			<Model>ak74_scope_07</Model>
+			<LocName>WCT_SCOPE_MED</LocName>
+			<LocDesc>WCD_SCOPE_MED</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<CameraHash/>
+			<ExtraZoomFactorForAccurateMode value="1.200000"/>
+			<Reticule value="0"/>
+			<ReticuleHash/>
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_AK74_SCOPE_08</Name>
+			<Model>ak74_scope_08</Model>
+			<LocName>WCT_SCOPE_MED</LocName>
+			<LocDesc>WCD_SCOPE_MED</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<CameraHash/>
+			<ExtraZoomFactorForAccurateMode value="1.200000"/>
+			<Reticule value="0"/>
+			<ReticuleHash/>
+		</Item>
+		<Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_AK74_SCOPE_09</Name>
+			<Model>ak74_scope_09</Model>
+			<LocName>WCT_SCOPE_MED</LocName>
+			<LocDesc>WCD_SCOPE_MED</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+			<CameraHash/>
+			<ExtraZoomFactorForAccurateMode value="1.800000"/>
+			<Reticule value="0"/>
+			<ReticuleHash/>
+		</Item>			
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AK74_STOCK_01</Name>
+			<Model>ak74_stock_01</Model>
+			<LocName></LocName>
+			<LocDesc></LocDesc>
+			<AttachBone>AAPStock</AttachBone>
+			<WeaponAttachBone>WAPStock</WeaponAttachBone>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AK74_STOCK_02</Name>
+			<Model>ak74_stock_02</Model>
+			<LocName></LocName>
+			<LocDesc></LocDesc>
+			<AttachBone>AAPStock</AttachBone>
+			<WeaponAttachBone>WAPStock</WeaponAttachBone>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AK74_STOCK_03</Name>
+			<Model>ak74_stock_03</Model>
+			<LocName></LocName>
+			<LocDesc></LocDesc>
+			<AttachBone>AAPStock</AttachBone>
+			<WeaponAttachBone>WAPStock</WeaponAttachBone>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AK74_STOCK_04</Name>
+			<Model>ak74_stock_04</Model>
+			<LocName></LocName>
+			<LocDesc></LocDesc>
+			<AttachBone>AAPStock</AttachBone>
+			<WeaponAttachBone>WAPStock</WeaponAttachBone>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AK74_STOCK_05</Name>
+			<Model>ak74_stock_05</Model>
+			<LocName></LocName>
+			<LocDesc></LocDesc>
+			<AttachBone>AAPStock</AttachBone>
+			<WeaponAttachBone>WAPStock</WeaponAttachBone>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AK74_STOCK_06</Name>
+			<Model>ak74_stock_06</Model>
+			<LocName></LocName>
+			<LocDesc></LocDesc>
+			<AttachBone>AAPStock</AttachBone>
+			<WeaponAttachBone>WAPStock</WeaponAttachBone>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AK74_STOCK_07</Name>
+			<Model>ak74_stock_07</Model>
+			<LocName></LocName>
+			<LocDesc></LocDesc>
+			<AttachBone>AAPStock</AttachBone>
+			<WeaponAttachBone>WAPStock</WeaponAttachBone>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+		</Item>
+		<Item type="CWeaponComponentInfo">
+			<Name>COMPONENT_AK74_STOCK_08</Name>
+			<Model>ak74_stock_08</Model>
+			<LocName></LocName>
+			<LocDesc></LocDesc>
+			<AttachBone>AAPStock</AttachBone>
+			<WeaponAttachBone>WAPStock</WeaponAttachBone>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="false"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="0"/>
+		</Item>				
+	</Infos>
+	<InfoBlobName/>
+</CWeaponComponentInfoBlob>
+

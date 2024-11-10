@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>ak74_mag_01</modelName>
+			<txdName>ak74_mag</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>		
+		<Item>
+			<modelName>ak74_mag_02</modelName>
+			<txdName>ak74_mag</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>	
+		<Item>
+			<modelName>ak74_mag_03</modelName>
+			<txdName>ak74_mag</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>	
+		<Item>
+			<modelName>ak74_mag_04</modelName>
+			<txdName>ak74_mag</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>	
+		<Item>
+			<modelName>ak74_mag_05</modelName>
+			<txdName>ak74_mag</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>	
+		<Item>
+			<modelName>ak74_mag_06</modelName>
+			<txdName>ak74_mag</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>	
+		<Item>
+			<modelName>ak74_mag_07</modelName>
+			<txdName>ak74_mag</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>	
+		<Item>
+			<modelName>ak74_mag_08</modelName>
+			<txdName>ak74_mag</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>		
+		<Item>
+			<modelName>ak74_mag_09</modelName>
+			<txdName>ak74_mag</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>			
+		<Item>
+			<modelName>ak74_stock_01</modelName>
+			<txdName>ak74_stock</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>		
+		<Item>
+			<modelName>ak74_stock_02</modelName>
+			<txdName>ak74_stock</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>		
+		<Item>
+			<modelName>ak74_stock_03</modelName>
+			<txdName>ak74_stock</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>		
+		<Item>
+			<modelName>ak74_stock_04</modelName>
+			<txdName>ak74_stock2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>		
+		<Item>
+			<modelName>ak74_stock_05</modelName>
+			<txdName>ak74_stock2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>		
+		<Item>
+			<modelName>ak74_stock_06</modelName>
+			<txdName>ak74_stock2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>		
+		<Item>
+			<modelName>ak74_stock_07</modelName>
+			<txdName>ak74_stock3</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>		
+		<Item>
+			<modelName>ak74_stock_08</modelName>
+			<txdName>ak74_stock3</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>				
+		<Item>
+			<modelName>ak74_scope_01</modelName>
+			<txdName>ak74_scope</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>	
+		<Item>
+			<modelName>ak74_scope_02</modelName>
+			<txdName>ak74_scope</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>	
+		<Item>
+			<modelName>ak74_scope_03</modelName>
+			<txdName>ak74_scope</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>	
+		<Item>
+			<modelName>ak74_scope_04</modelName>
+			<txdName>ak74_scope</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>	
+		<Item>
+			<modelName>ak74_scope_05</modelName>
+			<txdName>ak74_scope2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>	
+		<Item>
+			<modelName>ak74_scope_06</modelName>
+			<txdName>ak74_scope2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>	
+		<Item>
+			<modelName>ak74_scope_07</modelName>
+			<txdName>ak74_scope2</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>	
+		<Item>
+			<modelName>ak74_scope_08</modelName>
+			<txdName>ak74_scope3</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>	
+		<Item>
+			<modelName>ak74_scope_09</modelName>
+			<txdName>ak74_scope3</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>			
+		<Item>
+			<modelName>ak74_muz_09</modelName>
+			<txdName>ak74_muz</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_muz_08</modelName>
+			<txdName>ak74_muz</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_muz_07</modelName>
+			<txdName>ak74_muz</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_muz_06</modelName>
+			<txdName>ak74_muz</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_muz_05</modelName>
+			<txdName>ak74_muz</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_muz_04</modelName>
+			<txdName>ak74_muz</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_muz_03</modelName>
+			<txdName>ak74_muz</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_muz_02</modelName>
+			<txdName>ak74_muz</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_muz_01</modelName>
+			<txdName>ak74_muz</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_grip_10</modelName>
+			<txdName>ak74_grip</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_grip_09</modelName>
+			<txdName>ak74_grip</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_grip_08</modelName>
+			<txdName>ak74_grip</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_grip_07</modelName>
+			<txdName>ak74_grip</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_grip_06</modelName>
+			<txdName>ak74_grip</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_grip_05</modelName>
+			<txdName>ak74_grip</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_grip_04</modelName>
+			<txdName>ak74_grip</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_grip_03</modelName>
+			<txdName>ak74_grip</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_grip_02</modelName>
+			<txdName>ak74_grip</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_grip_01</modelName>
+			<txdName>ak74_grip</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_flsh_04</modelName>
+			<txdName>ak74_flsh</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_flsh_03</modelName>
+			<txdName>ak74_flsh</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_flsh_02</modelName>
+			<txdName>ak74_flsh</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_flsh_01</modelName>
+			<txdName>ak74_flsh</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_02</modelName>
+			<txdName>ak74_02</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+		<Item>
+			<modelName>ak74_01</modelName>
+			<txdName>ak74_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="250"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
+

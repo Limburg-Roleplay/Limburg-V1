@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>mcxrattler</modelName>
+			<txdName>mcxrattler</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>mcxrattler_clip_01</modelName>
+			<txdName>mcxrattler_clip_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>mcxrattler_flsh_01</modelName>
+			<txdName>mcxrattler_flsh_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>mcxrattler_flsh_02</modelName>
+			<txdName>mcxrattler_flsh_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>mcxrattler_flsh_03</modelName>
+			<txdName>mcxrattler_flsh_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>mcxrattler_flsh_04</modelName>
+			<txdName>mcxrattler_flsh_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>mcxrattler_grip_01</modelName>
+			<txdName>mcxrattler_grip_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>mcxrattler_scope_01</modelName>
+			<txdName>mcxrattler_scope_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>		
+		<Item>
+			<modelName>mcxrattler_scope_02</modelName>
+			<txdName>mcxrattler_scope_02</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>		
+		<Item>
+			<modelName>mcxrattler_scope_03</modelName>
+			<txdName>mcxrattler_scope_03</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>		
+		<Item>
+			<modelName>mcxrattler_stock_01</modelName>
+			<txdName>mcxrattler_stock_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>		
+		<Item>
+			<modelName>mcxrattler_stock_02</modelName>
+			<txdName>mcxrattler_stock_01</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>	
+		<Item>
+			<modelName>mcxrattler_stock_03</modelName>
+			<txdName>mcxrattler_stock_03</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>	
+		<Item>
+			<modelName>mcxrattler_stock_04</modelName>
+			<txdName>mcxrattler_stock_03</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>	
+		<Item>
+			<modelName>mcxrattler_stock_05</modelName>
+			<txdName>mcxrattler_stock_05</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>	
+		<Item>
+			<modelName>mcxrattler_stock_06</modelName>
+			<txdName>mcxrattler_stock_05</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>			
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
+

@@ -1,0 +1,95 @@
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/25/2024, 12:00:16 AM
+================================================================
+
+================================================================
+======== Log Rotated - 5/25/2024, 12:00:16 AM                   
+================================================================
+[00:00:31][jamie] logged in from 88.159.244.69 via cfxre
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/25/2024, 6:00:15 AM
+================================================================
+[09:29:58][jamie] logged in from 88.159.244.69 via cfxre
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/25/2024, 9:43:23 AM
+================================================================
+[09:46:50][jamie] logged in from 88.159.244.69 via cfxre
+[09:46:58][jamie] executed "setgroup 1 superadmin"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/25/2024, 9:52:02 AM
+================================================================
+[09:53:55][jamie] logged in from 88.159.244.69 via cfxre
+[09:54:08][jamie] executed "setgroup 1 superadmin\"
+[09:54:10][jamie] executed "setgroup 1 superadmin"
+[09:54:30][jamie] executed "setgroup 1 admin"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/25/2024, 9:57:56 AM
+================================================================
+[10:00:27][jamie] logged in from 88.159.244.69 via cfxre
+[10:00:49][matthijs] logged in from 89.99.67.196 via cfxre
+[10:05:10][jamie] executed "restart esx_license"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/25/2024, 10:08:45 AM
+================================================================
+[10:12:23][jamie] logged in from 88.159.244.69 via cfxre
+[10:12:34][jamie] executed "setgroup 1 superadmin"
+[10:12:48][matthijs] logged in from 89.99.67.196 via cfxre
+[10:13:02][jamie] executed "setgroup 1 admin"
+[10:13:24][jaybully] logged in from 178.84.74.6 via password
+[10:13:35][jaybully] executed "announce nigga"
+[10:13:39][jaybully] executed "looc nigga"
+[10:13:41][jaybully] executed "ooc nigga"
+[10:14:07][jaybully] executed "setgroup 1 user"
+[10:14:19][jaybully] executed "setgroup 1 superadmin 4"
+[10:14:37][jaybully] executed "setjob 1 bloods 4"
+[10:14:43][jaybully] executed "setjob 1 bloods 5"
+[10:15:30][matthijs] executed "restart esx_drugs"
+[10:15:33][matthijs] executed "restart esx_drugs_sell"
+[10:17:50][jaybully] executed "restart es-extended"
+[10:18:00][jaybully] executed "restart esx_extended"
+[10:18:04][jaybully] executed "restart es_extended"
+[10:21:17][jaybully] executed "restart esx_extended"
+[10:21:22][jaybully] executed "restart es_extended"
+[10:21:43][jamie] executed "RESTART SERVER"
+[10:31:56][jaybully] executed "fg ban 2"
+[10:32:01][jaybully] executed "fg ban 1"
+[10:32:26][jamie] executed "fg unban 2"
+[10:39:47][jaybully] executed "setjob"
+[10:39:47][jaybully] executed "setjob"
+[10:45:49][jamie] executed "RESTART SERVER"
+[12:00:48][SCHEDULER] Restarting server (scheduled restart at 12:00).
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/25/2024, 1:22:56 PM
+================================================================
+[13:25:34][jamie] logged in from 88.159.244.69 via cfxre
+[13:25:44][jamie] executed "fg unban 1"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/25/2024, 1:37:46 PM
+================================================================
+[14:05:19][jamie] logged in from 88.159.244.69 via cfxre
+[14:29:40][matthijs] logged in from 89.99.67.196 via cfxre
+[14:36:18][jamie] executed "ensure "jsfour-idcard""
+[15:45:33][jaybully] logged in from 178.84.74.6 via password
+[15:45:44][jaybully] Sending announcement: Nigga.
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/25/2024, 7:58:09 PM
+================================================================
+[20:03:53][jamie] logged in from 88.159.244.69 via cfxre
+[20:03:59][jamie] executed "fg unban 1"
+[20:07:51][jamie] executed "fg unban 2"
+[20:24:13][jamie] executed "fg unban 3"
+[20:24:15][jamie] executed "fg unban 4"
+[20:24:16][jamie] executed "fg unban 5"
+[20:24:18][jamie] executed "fg unban 2"
+[20:24:19][jamie] executed "fg unban 1"
+[22:15:46][jamie] executed "RESTART SERVER"
+[22:39:54][jamie] executed "RESTART SERVER"

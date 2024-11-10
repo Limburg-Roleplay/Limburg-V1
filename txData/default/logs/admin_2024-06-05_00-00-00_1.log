@@ -1,0 +1,55 @@
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 6/5/2024, 12:00:15 AM
+================================================================
+
+================================================================
+======== Log Rotated - 6/5/2024, 12:00:15 AM                    
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 6/5/2024, 6:00:15 AM
+================================================================
+[11:14:17][jamie] logged in from 88.159.244.69 via cfxre
+[11:37:05][matthijs] logged in from 89.99.67.196 via cfxre
+[11:52:33][matthijs] executed "stop "wiet""
+[11:52:38][matthijs] executed "stop "esx_drugs2""
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 6/5/2024, 12:00:15 PM
+================================================================
+[12:00:43][jamie] logged in from 88.159.244.69 via cfxre
+[12:01:51][matthijs] logged in from 89.99.67.196 via cfxre
+[12:15:05][matthijs] executed "stop "wiet""
+[12:15:09][matthijs] executed "stop "esx_drugs2""
+[12:21:14][matthijs] executed "ensure "wiet""
+[12:33:28][matthijs] Sending announcement: alle drugs zijn gefixed ik ga ff eten
+[12:33:37][matthijs] Sending announcement: ey nigger
+[12:33:41][matthijs] Sending announcement: nigger
+[12:33:42][matthijs] Sending announcement: nigger
+[12:33:43][matthijs] Sending announcement: nigeer
+[12:33:45][matthijs] Sending announcement: hallo?
+[12:35:39][matthijs] Sending announcement: alle drugs zijn gefixed ben ff eten
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 6/5/2024, 6:00:15 PM
+================================================================
+[19:10:11][matthijs] logged in from 89.99.67.196 via cfxre
+[19:48:42][matthijs] executed "stop "weapon-on-back""
+[19:49:17][matthijs] executed "ensure "weapon-on-back""
+[20:05:26][matthijs] Kicked #Gay nigga porn leaked: f
+[20:15:49][matthijs] executed "RESTART SERVER"
+[20:18:04][matthijs] executed "refresh"
+[20:21:21][matthijs] executed "property:create"
+[20:21:38][matthijs] Adding admin 'gayniggapornleaked'.
+[20:22:22][gayniggapornleaked] Changing own password.
+[20:22:25][gayniggapornleaked] Changing own identifiers.
+[20:22:37][gayniggapornleaked] executed "setgroup 3 superadmin"
+[20:23:47][gayniggapornleaked] executed "add_ace group.admin "vMenu.OnlinePlayers.Menu" allow"
+[20:24:31][gayniggapornleaked] executed "add_principal identifer.steam:110000154f27191 group.superadmin"
+[20:29:24][matthijs] executed "stop "weapondeleter""
+[20:37:51][matthijs] executed "ensure "weapondeleter""
+[20:38:41][matthijs] executed "stop "weapondeleter""
+[20:40:48][matthijs] executed "RESTART SERVER"
+[20:59:04][matthijs] executed "RESTART SERVER"
+[21:01:23][matthijs] executed "RESTART SERVER"

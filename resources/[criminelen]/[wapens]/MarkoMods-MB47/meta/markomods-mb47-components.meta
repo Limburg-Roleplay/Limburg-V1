@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponComponentInfoBlob>
+  <Infos>
+    <Item type='CWeaponComponentClipInfo'>
+      <Name>COMPONENT_MARKOMODS_MB47_CLIP_01</Name>
+      <Model>markomods-mb47-mag1</Model>
+      <LocName>MAG</LocName>
+      <LocDesc>MAG</LocDesc>
+      <AttachBone>AAPClip</AttachBone>
+      <WeaponAttachBone>WAPClip</WeaponAttachBone>
+      <AccuracyModifier type='NULL' />
+      <DamageModifier type='NULL' />
+      <bShownOnWheel value='false' />
+      <CreateObject value='true' />
+      <HudDamage value='0' />
+      <HudSpeed value='0' />
+      <HudCapacity value='0' />
+      <HudAccuracy value='0' />
+      <HudRange value='0' />
+      <ClipSize value='30' />
+      <ReloadData ref='RELOAD_DEFAULT' />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_MARKOMODS_MB47_STOCK_01</Name>
+      <Model>markomods-mb47-stock1</Model>
+      <LocName>STOCK</LocName>
+      <LocDesc>STOCK</LocDesc>
+      <AttachBone>AAPStock</AttachBone>
+      <WeaponAttachBone>WAPGrip_2</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+    </Item>
+    <Item type="CWeaponComponentScopeInfo">
+			<Name>COMPONENT_MARKOMODS_MB47_SCOPE_01</Name>
+			<Model>markomods-mb47-scope1</Model>
+			<LocName>WCT_SCOPE_MED</LocName>
+			<LocDesc>WCD_SCOPE_MED</LocDesc>
+			<AttachBone>AAPScop</AttachBone>
+			<WeaponAttachBone>WAPScop</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<DamageModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="0"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="5"/>
+			<HudRange value="0"/>
+			<CameraHash/>
+			<RecoilShakeAmplitude value="0.280000"/>
+			<Reticule value="0"/>
+			<ReticuleHash/>
+		</Item>
+    <Item type="CWeaponComponentSuppressorInfo">
+			<Name>COMPONENT_MARKOMODS_MB47_MUZZLE_01</Name>
+			<Model>markomods-mb47-muzzle1</Model>
+			<LocName>WCT_SUPPRESSOR</LocName>
+			<LocDesc>WCD_SUPPRESSOR</LocDesc>
+			<AttachBone>AAPSupp</AttachBone>
+			<WeaponAttachBone>WAPSupp</WeaponAttachBone>
+			<AccuracyModifier type="NULL"/>
+			<bShownOnWheel value="true"/>
+			<CreateObject value="true"/>
+			<HudDamage value="-5"/>
+			<HudSpeed value="0"/>
+			<HudCapacity value="0"/>
+			<HudAccuracy value="0"/>
+			<HudRange value="-5"/>
+			<MuzzleBone>Gun_SuMuzzle</MuzzleBone>
+			<FlashFx>muz_assault_rifle</FlashFx>
+			<ShouldSilence value="false" />
+		</Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_MARKOMODS_MB47_HANDGUARD_01</Name>
+      <Model>markomods-mb47-handguard1</Model>
+      <LocName>HANDGUARD</LocName>
+      <LocDesc>HANDGUARD</LocDesc>
+      <AttachBone>AAPGrip</AttachBone>
+      <WeaponAttachBone>WAPGrip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_MARKOMODS_MB47_HANDGUARD_02</Name>
+      <Model>markomods-mb47-handguard2</Model>
+      <LocName>HANDGUARD</LocName>
+      <LocDesc>HANDGUARD</LocDesc>
+      <AttachBone>AAPGrip</AttachBone>
+      <WeaponAttachBone>WAPGrip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_MARKOMODS_MB47_HANDGUARD_03</Name>
+      <Model>markomods-mb47-handguard3</Model>
+      <LocName>HANDGUARD</LocName>
+      <LocDesc>HANDGUARD</LocDesc>
+      <AttachBone>AAPGrip</AttachBone>
+      <WeaponAttachBone>WAPGrip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_MARKOMODS_MB47_HANDGUARD_04</Name>
+      <Model>markomods-mb47-handguard4</Model>
+      <LocName>HANDGUARD</LocName>
+      <LocDesc>HANDGUARD</LocDesc>
+      <AttachBone>AAPGrip</AttachBone>
+      <WeaponAttachBone>WAPGrip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_MARKOMODS_MB47_HANDGUARD_05</Name>
+      <Model>markomods-mb47-handguard5</Model>
+      <LocName>HANDGUARD</LocName>
+      <LocDesc>HANDGUARD</LocDesc>
+      <AttachBone>AAPGrip</AttachBone>
+      <WeaponAttachBone>WAPGrip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_MARKOMODS_MB47_HANDGUARD_06</Name>
+      <Model>markomods-mb47-handguard6</Model>
+      <LocName>HANDGUARD</LocName>
+      <LocDesc>HANDGUARD</LocDesc>
+      <AttachBone>AAPGrip</AttachBone>
+      <WeaponAttachBone>WAPGrip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_MARKOMODS_MB47_HANDGUARD_07</Name>
+      <Model>markomods-mb47-handguard7</Model>
+      <LocName>HANDGUARD</LocName>
+      <LocDesc>HANDGUARD</LocDesc>
+      <AttachBone>AAPGrip</AttachBone>
+      <WeaponAttachBone>WAPGrip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_MARKOMODS_MB47_HANDGUARD_08</Name>
+      <Model>markomods-mb47-handguard8</Model>
+      <LocName>HANDGUARD</LocName>
+      <LocDesc>HANDGUARD</LocDesc>
+      <AttachBone>AAPGrip</AttachBone>
+      <WeaponAttachBone>WAPGrip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_MARKOMODS_MB47_HANDGUARD_09</Name>
+      <Model>markomods-mb47-handguard9</Model>
+      <LocName>HANDGUARD</LocName>
+      <LocDesc>HANDGUARD</LocDesc>
+      <AttachBone>AAPGrip</AttachBone>
+      <WeaponAttachBone>WAPGrip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_MARKOMODS_MB47_HANDGUARD_10</Name>
+      <Model>markomods-mb47-handguard10</Model>
+      <LocName>HANDGUARD</LocName>
+      <LocDesc>HANDGUARD</LocDesc>
+      <AttachBone>AAPGrip</AttachBone>
+      <WeaponAttachBone>WAPGrip</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_MARKOMODS_MB47_BODY_01</Name>
+      <Model>markomods-mb47-body1</Model>
+      <LocName>BODY</LocName>
+      <LocDesc>BODY</LocDesc>
+      <AttachBone>AAPGrip_2</AttachBone>
+      <WeaponAttachBone>WAPBody</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_MARKOMODS_MB47_BODY_02</Name>
+      <Model>markomods-mb47-body2</Model>
+      <LocName>BODY</LocName>
+      <LocDesc>BODY</LocDesc>
+      <AttachBone>AAPGrip_2</AttachBone>
+      <WeaponAttachBone>WAPBody</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_MARKOMODS_MB47_BODY_03</Name>
+      <Model>markomods-mb47-body3</Model>
+      <LocName>BODY</LocName>
+      <LocDesc>BODY</LocDesc>
+      <AttachBone>AAPGrip_2</AttachBone>
+      <WeaponAttachBone>WAPBody</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_MARKOMODS_MB47_BODY_04</Name>
+      <Model>markomods-mb47-body4</Model>
+      <LocName>BODY</LocName>
+      <LocDesc>BODY</LocDesc>
+      <AttachBone>AAPGrip_2</AttachBone>
+      <WeaponAttachBone>WAPBody</WeaponAttachBone>
+      <AccuracyModifier type="NULL"/>
+      <DamageModifier type="NULL"/>
+      <bShownOnWheel value="true"/>
+      <CreateObject value="true"/>
+      <HudDamage value="0"/>
+      <HudSpeed value="0"/>
+      <HudCapacity value="0"/>
+      <HudAccuracy value="5"/>
+      <HudRange value="0"/>
+    </Item>
+  </Infos>
+  <InfoBlobName/>
+</CWeaponComponentInfoBlob>
+

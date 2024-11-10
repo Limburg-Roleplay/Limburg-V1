@@ -1,0 +1,71 @@
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/5/2024, 11:53:13 AM
+================================================================
+
+================================================================
+======== Log Rotated - 7/5/2024, 11:53:14 AM                    
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/5/2024, 12:00:17 PM
+================================================================
+[12:14:15][jamie] logged in from 88.159.244.69 via cfxre
+[13:13:41][matthijs] logged in from 89.99.67.196 via cfxre
+[13:13:47][matthijs] executed "refresh"
+[13:31:18][matthijs] executed "stop "shy_policeutils""
+[14:10:24][jamie] executed "RESTART SERVER"
+[14:36:54][jamie] executed "RESTART SERVER"
+[15:01:46][jamie] logged in from 88.159.244.69 via cfxre
+[15:02:33][jamie] executed "RESTART SERVER"
+[15:18:26][matthijs] executed "refresh"
+[15:18:31][matthijs] executed "ensure "vx_requestsearch-main""
+[15:18:33][matthijs] executed "refresh"
+[15:28:54][matthijs] executed "refresh"
+[15:29:48][matthijs] executed "stop "shy_policeutils""
+[15:34:55][matthijs] executed "refresh"
+[15:35:17][matthijs] executed "refresh"
+[15:35:19][matthijs] executed "ensure "vx_requestsearch-main""
+[15:37:50][matthijs] executed "refresh"
+[15:39:59][matthijs] executed "refresh"
+[15:45:39][matthijs] executed "RESTART SERVER"
+[15:45:58][matthijs] executed "refresh"
+[15:46:05][matthijs] executed "stop "jtm-requestsearch""
+[15:46:16][matthijs] executed "stop "shy_policeutils""
+[16:39:30][jamie] Kicked #Matthijs: s
+[16:44:30][jamie] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/5/2024, 5:01:07 PM
+================================================================
+[17:01:20][matthijs] logged in from 89.99.67.196 via cfxre
+[17:21:24][matthijs] executed "RESTART SERVER"
+[17:24:29][matthijs] executed "refresh"
+[18:00:08][SCHEDULER] Restarting server (scheduled restart at 18:00).
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/5/2024, 6:00:17 PM
+================================================================
+[18:05:17][matthijs] logged in from 89.99.67.196 via cfxre
+[18:05:22][matthijs] executed "ensure "jtm-grotebankov""
+[19:41:46][matthijs] executed "ensure "jtm-grotebankov""
+[19:59:25][jamie] logged in from 88.159.244.69 via cfxre
+[19:59:36][jamie] executed "RESTART SERVER"
+[20:02:57][jamie] executed "stop vesx_cuff"
+[20:03:46][jamie] executed "start vesx_cuff"
+[20:09:55][matthijs] executed "ensure "jtm-grotebankov""
+[20:10:06][matthijs] executed "restart jtm-grotebankov"
+[21:38:43][jamie] Changing discordBot settings.
+[21:39:35][jamie] Changing discordBot settings.
+[21:39:46][jamie] Changing discordBot settings.
+[21:42:53][jamie] Changing discordBot settings.
+[21:43:38][jamie] Changing discordBot settings.
+[21:44:17][jamie] Changing discordBot settings.
+[21:44:42][jamie] Changing discordBot settings.
+[21:45:50][jamie] Changing discordBot settings.
+[21:45:59][jamie] Status embed saved.
+[21:46:24][jamie] Changing discordBot settings.
+[21:47:09][jamie] Changing discordBot settings.
+[21:47:40][jamie] Changing discordBot settings.
+[21:49:20][jamie] Changing Player Manager settings.
+[21:49:25][jamie] Changing Player Manager settings.

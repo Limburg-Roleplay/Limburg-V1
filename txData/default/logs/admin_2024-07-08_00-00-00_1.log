@@ -1,0 +1,52 @@
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/8/2024, 12:00:17 AM
+================================================================
+
+================================================================
+======== Log Rotated - 7/8/2024, 12:00:17 AM                    
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/8/2024, 6:00:31 AM
+================================================================
+[11:45:27][jamie] logged in from 88.159.244.69 via cfxre
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/8/2024, 12:00:17 PM
+================================================================
+[12:24:32][jamie] logged in from 88.159.244.69 via cfxre
+[12:26:11][matthijs] logged in from 89.99.67.196 via cfxre
+[12:26:14][matthijs] executed "refresh"
+[12:26:17][matthijs] executed "stop "jtm-requestsearch2""
+[14:18:40][matthijs] Kicked #!Jamie: no reason provided
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/8/2024, 2:21:58 PM
+================================================================
+[16:11:26][matthijs] logged in from 89.99.67.196 via cfxre
+[18:00:03][SCHEDULER] Restarting server (scheduled restart at 18:00).
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/8/2024, 6:00:17 PM
+================================================================
+[18:46:33][matthijs] logged in from 89.99.67.196 via cfxre
+[18:46:36][matthijs] executed "stop "erp-selltonpc-single""
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/8/2024, 6:47:27 PM
+================================================================
+[18:49:29][matthijs] logged in from 89.99.67.196 via cfxre
+[18:49:37][matthijs] executed "stop "erp-selltonpc-single""
+[18:51:32][matthijs] executed "refresh"
+[18:54:21][matthijs] executed "refresh"
+[18:54:24][matthijs] executed "ensure "ox_inventory""
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/8/2024, 6:54:42 PM
+================================================================
+[18:56:29][matthijs] logged in from 89.99.67.196 via cfxre
+[18:56:36][matthijs] executed "ensure "ox_inventory""
+[18:56:46][matthijs] executed "ensure "erp-selltonpc-single""
+[19:38:28][matthijs] executed "stop "erp-selltonpc-single""
+[20:39:40][matthijs] executed "stop "cad-drugsales-main""

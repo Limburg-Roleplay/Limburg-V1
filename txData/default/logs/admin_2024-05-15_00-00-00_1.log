@@ -1,0 +1,579 @@
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/12/2024, 12:00:33 AM
+================================================================
+
+================================================================
+======== Log Rotated - 5/12/2024, 12:00:33 AM                   
+================================================================
+[00:02:24][jamie] logged in from 185.65.134.198 via cfxre
+[00:04:41][jaybully] Kicked #Msi-PC: cheats
+[00:33:17][jaybully] Banned player Msi-PC: Rippen zonder reden!!!
+[02:51:10][degangster] Warned player [31] [TBR] Romano!!: rdm
+[06:00:42][SCHEDULER] Restarting server (scheduled restart at 06:00).
+[11:29:11][jaybully] Revoked ban id BMF5-SQ95 from GlizzyGlober Guac Guac 9000
+[11:32:39][jaybully] Revoked ban id BEVL-DV8A from Msi-PC
+[11:48:57][jamie] logged in from 88.159.244.69 via cfxre
+[11:49:03][jamie] executed "checkreports"
+[11:57:06][Tijntjuh] logged in from 84.80.106.96 via cfxre
+[11:57:10][Tijntjuh] executed "refresh"
+[11:57:12][Tijntjuh] executed "ensure reply"
+[11:57:14][Tijntjuh] executed "refresh"
+[11:57:14][Tijntjuh] executed "ensure"
+[11:58:22][Tijntjuh] executed "refresh"
+[11:58:25][Tijntjuh] executed "ensure reply"
+[11:58:27][Tijntjuh] executed "reportcount"
+[11:58:31][Tijntjuh] executed "checkreports"
+[11:58:48][Tijntjuh] executed "reportcount"
+[11:58:49][Tijntjuh] executed "refresh"
+[11:58:51][Tijntjuh] executed "ensure reply"
+[11:58:53][Tijntjuh] executed "reportcount"
+[11:58:58][Tijntjuh] executed "checkreports"
+[12:00:07][jamie] executed "checkreports"
+[12:00:51][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:04:37][jamie] executed "checkreports"
+[12:05:20][jamie] executed "checkreports"
+[12:23:22][jamie] executed "ensure "frp-report""
+[12:33:56][jamie] executed "checkreports"
+[13:51:03][jaybully] Added c86c5141e59d69bdee7233a5f65d85e1381f398f to the whitelist.
+[13:51:15][notfietsendief] Banned player Poeniechapper: artikel 14 NVOL ] melden in ticket
+[13:53:35][jamie] executed "steam:11000015d68dc81"
+[13:53:45][jamie] executed "cfx_tebexwrapper:addCoins steam:11000015d68dc81 30 limboland"
+[14:29:15][jamie] executed "fg unban 172"
+[14:35:56][jamie] Revoked ban id B7Z2-R5A8 from Seppito
+[14:36:30][jamie] Revoked ban id BZLX-E9NX from Lorenzoo
+[14:46:20][notfietsendief] Warned player [28] Milann: atrikel 14 NVOL + artikel 4 FAIL RP
+[15:17:51][notfietsendief] Banned player lucasking9160: artikel 14 NVOL + melden inticket + wapen inleveren
+[16:19:51][jamie] executed "cfx_tebexwrapper:addCoins steam:110000145cb1c10 30 limboland"
+[16:20:52][notfietsendief] Banned player Xander99: ARTIKEL 14 NVOL + artikel 8 Combatloggen + melden in ticket
+[16:24:45][jamie] executed "fg unban 173"
+[16:27:21][jamie] executed "giverefund steam:1100001065a7539 weapon_meos45 1"
+[16:27:28][jamie] executed "giverefund steam:1100001065a7539 ammo-45 95"
+[16:42:07][jamie] Revoked ban id B8V2-G6S2 from RSR | Badeend🦆
+[16:57:04][jamie] Adding admin 'badeend'.
+[16:57:20][jamie] executed "setgroup 84 adminteam"
+[17:11:51][badeend] Warned player [87] bobidi bob: Rascisme tegen andere burger ( Clip gezien )
+[17:23:43][jamie] executed "fg ban 943455f51cf2530f8b84fef49c1df1218e599435 Cheats GUM"
+[17:23:57][jamie] executed "fg offlineban 943455f51cf2530f8b84fef49c1df1218e599435 Cheats GUM"
+[17:24:11][jamie] Banned player Tijme: Cheats GUM
+[17:24:57][jamie] executed "fg offlineban license:943455f51cf2530f8b84fef49c1df1218e599435 Cheats"
+[17:32:27][jamie] executed "carwipe"
+[17:41:02][badeend] Banned player bobidi bob: Artikel 1 - Cheats + Kloter
+[18:00:01][SCHEDULER] Restarting server (scheduled restart at 18:00).
+[19:05:34][badeend] Set notes for 5771db8ae4d0032dd0b892c6184e57d5d0b80d30
+[19:05:38][badeend] Set notes for 5771db8ae4d0032dd0b892c6184e57d5d0b80d30
+[19:07:17][badeend] Warned player [25] Aladinwasmachin: RDM ( Normaal zou je ban van 6 uur hebben )
+[19:14:01][helios] logged in from 83.84.156.149 via password
+[19:16:13][helios] executed "giverefund steam:11000016045cc84 WEAPON_ASSAULTRIFLE_MK2 1 WEAPON_AK47 1 WEAPON_MB47 1 WEAPON_AK47U 1 WEAPON_MP5 1 WEAPON_UMP45 1 WEAPON_UZI 1 WEAPON_MAC11 1 WEAPON_PISTOL_MK2 1  WEAPON_M1911 1 WEAPON_MEOS45 1 WEAPON_SMITHWESSON 1"
+[19:17:08][sunnless] logged in from 80.56.196.94 via cfxre
+[19:17:57][jamie] executed "kees"
+[19:18:01][jamie] executed "kanker mogool"
+[19:18:04][jamie] executed "hoe refund jij dingen"
+[19:18:05][jamie] executed "HBAHAHHA"
+[19:18:33][jamie] Deleting user 'sunnless'.
+[19:18:39][jamie] Adding admin 'sunnless'.
+[19:21:43][jamie] Adding admin 'sunlees'.
+[19:22:42][jamie] executed "setgroup 31 managementteam"
+[19:24:40][helios] executed "giverefund steam:11000016381af1b WEAPON_MEOS45"
+[19:24:55][helios] executed "giverefund steam:11000016381af1b WEAPON_MEOS45 1"
+[19:25:02][sunnless] Changing own password.
+[19:25:07][sunnless] Changing own identifiers.
+[19:29:43][sunnless] Banned player Goated12: Combatloggen melden in ticket wapen inleveren
+[19:32:04][jamie] Adding admin 'roxyro'.
+[19:34:47][jamie] Adding admin 'Niels'.
+[19:34:55][Niels] logged in from 84.84.4.101 via cfxre
+[19:35:10][Niels] Changing own password.
+[19:35:29][helios] executed "giverefund steam:11000014829e85e WEAPON_PISTOL_MK2 1"
+[19:35:59][jamie] executed "fg ban kees negertje"
+[19:36:06][Niels] executed "niggerclat"
+[19:39:09][helios] executed "giverefund steam:11000013e53e341 WEAPON_M1911 1"
+[19:40:19][sunnless] Revoked ban id BC38-YFTH from Goated12
+[19:42:20][jesse] logged in from 84.82.187.23 via password
+[19:43:32][jesse] executed "giverefund steam:11000013bdaeee6 black_money 1180000"
+[20:00:12][jesse] Warned player [45] Lorenzoo: Artikel 9 | Schelden/beledigen van spelers of staff leden
+[20:13:53][helios] Banned player pablo: HACKER EN DREIGEN MET BOOTEN
+[20:15:17][jamie] Adding admin 'rvhdccianhogendijk'.
+[20:16:09][jamie] executed "setgroup 75 adminteam"
+[20:19:56][rvhdccianhogendijk] Changing own password.
+[20:19:58][rvhdccianhogendijk] Changing own identifiers.
+[20:20:17][jamie] executed "fg offlineban license:0939623fe584fc7e03b7b599fb8a32aeb32ecb04 Cheats + dreigen met ddos"
+[20:20:24][jamie] executed "wipe license:0939623fe584fc7e03b7b599fb8a32aeb32ecb04"
+[20:20:31][jamie] executed "wipe 0939623fe584fc7e03b7b599fb8a32aeb32ecb04"
+[20:23:28][jesse] Banned player Tintelfris appel perzik: Combatloggen | wapen inleveren voor unban.
+[20:26:06][jesse] Revoked ban id B9W5-NWXN from Tintelfris appel perzik
+[20:28:16][jamie] executed "cfx_tebexwrapper:addCoins steam:1100001550b537f 30 limboland"
+[20:29:51][Niels] executed "giverefund steam:11000016381af1b weapon_ak47 1"
+[20:30:04][jamie] executed "cfx_tebexwrapper:addCoins steam:1100001582810df 30 limboland"
+[20:30:15][jamie] executed "cfx_tebexwrapper:addCoins steam:1100001582810df 2 limboland"
+[20:37:54][jamie] executed "cfx_tebexwrapper:addCoins steam:11000015d68dc81 40 limboland"
+[20:41:31][jesse] executed "giverefund steam:11000013e53e341 WEAPON_PISTOL_MK2 1"
+[20:41:42][jesse] executed "giverefund steam:11000013e53e341 at_clip_extended_pistol 1"
+[20:41:56][jesse] executed "giverefund steam:11000013e53e341 at_compensator 1"
+[20:45:59][sunnless] Banned player Tintelfris appel perzik: Meerdere keren combatloggen + rdm
+[20:46:49][sunnless] executed "clearofinv 13585a11643d2f996e804e2efdc42fa2ccf61d60"
+[20:47:06][jamie] executed "clearoffinv license"
+[20:47:21][sunnless] executed "clearoffinv 13585a11643d2f996e804e2efdc42fa2ccf61d60"
+[20:50:41][sunnless] Sending announcement: Nog 10 minuten tot eiland event! Verzamelen bij vliegveld onderin stad!
+[20:52:01][jamie] executed "checkreports"
+[20:53:40][jesse] Banned player Docter Van Noorden: Schelden met KKR | Ticket maken voor donatie kika 5 euro.
+[20:54:07][sunnless] Sending announcement: iedereen die meedoet krijgt clear inv dus neem niks mee!
+[20:55:01][sunnless] Sending announcement: 21:05 gaan we beginnen zorg dan dat je er bent!
+[20:57:23][sunnless] Sending announcement: Iedereen die nog op het eiland is en niet meedoet aan het event moet er nu afgaan anders sanctie!
+[21:00:15][sunnless] Sending announcement: Iedereen die staff is en mee wil doen moet nu uit staffdienst gaan! head ids uit!
+[21:06:52][sunnless] Sending announcement: iedereen die tp krijgt naar eiland moet ff blijven staan
+[21:08:19][Tijntjuh] executed "removetaken 100"
+[21:11:36][Niels] executed "removetaken 100"
+[21:11:44][sunnless] Sending announcement: kom ff bij mij staan paarse hesje
+[21:11:51][Niels] executed "/removetaken 100"
+[21:11:57][Niels] executed "removetaken 100"
+[21:13:39][sunnless] Sending announcement: als je wapen wilt moet je bij mij blijven staan
+[21:14:29][sunnless] executed "giverefund steam:1100001550b537f weapon_m1911 50"
+[21:18:09][sunnless] Sending announcement: iedereemn blijven staan op het vliegveld
+[21:19:27][sunnless] Sending announcement: Iedereen mag nu een plekje zoeken op het eiland nog niet schieten! anders 3 dagen ban!
+[21:20:03][sunnless] Sending announcement: ik zeg waneer jullie mogen schieten!
+[21:20:49][sunnless] Sending announcement: hou je aan de regels. dus niet vdmen. en vooral lekker maaien. over 1 minuut mag je schieten
+[21:21:44][sunnless] Sending announcement: teamen mag absoluut niet trouwens dus als je dat doet krijg je direct een ban van een week
+[21:21:52][sunnless] Sending announcement: Je mag nu shieten!!!!!!!!!!!!!
+[21:23:07][sunnless] Sending announcement: als je dood bent gewoon respawnen. over een paar minuten gaan er plekken wegvallen en daar mag je dus niet meer komen
+[21:27:16][sunnless] Sending announcement: het hele gebied bij cayo perico mansion valt nu weg en mag je niet meer komen!
+[21:31:41][sunnless] Sending announcement: Het hele onderste gedeelte van het eiland valt nu af tot aan de eiland cardealer. dat betekent dat je zo snel mogelijk dit gebied moet verlaten
+[21:33:38][notfietsendief] Warned player [140] oskar.kahler2002: report spammen
+[21:36:37][sunnless] Sending announcement: er zijn weinig mensen over iedereen moet nu rondom het vliegveld komen zo snel mogelijlk
+[21:41:38][sunnless] Sending announcement: er zijn nog 4 man over iedereen mond rond hangar en die gebouwtjes komen
+[21:44:20][jamie] Warned player [156] FrikandalSpeciaal: Dubbelloggen
+[21:46:22][sunnless] Sending announcement: iedereen moet nu rond hangar komen. 1 tip er zit iemand in
+[21:47:09][sunnless] Sending announcement: nog 4 man over!!
+[21:47:38][jesse] executed "revive 110"
+[21:49:04][sunnless] Sending announcement: je mag niet meer in voertuigen iedereen is nu rond hangar
+[21:49:19][sunnless] Sending announcement: nog 4 mensen eerste die nu dood gaat bepaald wie de top 3 is
+[21:50:54][sunnless] Sending announcement: we hebben nu de top 3
+[21:51:23][sunnless] Sending announcement: je mag niet meer weg van de hangar iedereen moet er omheen zijn
+[21:52:53][sunnless] Sending announcement: romano heeft gewonnen!!!!!!!!!!
+[21:56:02][Tijntjuh] Adding admin 'sander'.
+[21:59:53][rvhdccianhogendijk] Changing own password.
+[22:00:01][rvhdccianhogendijk] Changing own identifiers.
+[22:00:07][sander] Changing own password.
+[22:00:09][sander] Changing own identifiers.
+[22:01:35][rvhdccianhogendijk] logged in from 83.87.186.82 via password
+[22:02:03][sander] Warned player [155] CCCCCCCCCCJJJJJJJJJJEEEEEEEEEEE: Rippen zonder reden / niet de APV kennen.
+[22:36:30][fahraw] Banned player GlizzyGlober Guac Guac 9000: Combatloggen melden in ticket voor clear inventory
+[22:44:44][jaybully] Banned player Kareltjuh: VDM
+[22:46:49][jaybully] Revoked ban id BM5V-5VCW from Kareltjuh
+[22:48:28][rvhdccianhogendijk] logged in from 172.226.96.32 via password
+[22:50:19][sunnless] Warned player [184] CCCCCCCCCCJJJJJJJJJJEEEEEEEEEEE: Rippen zonder reden!
+[22:57:21][sunnless] executed "giverefund steam:11000013e53e341 weapon_meos45 1"
+[22:57:42][sunnless] executed "giverefund steam:11000013e53e341 weapon_pistol_mk2 1"
+[23:03:43][sunnless] Banned player [DAM]KILLA: vdm+schelden met hedendaagse ziektes
+[23:06:54][sunnless] Warned player [184] CCCCCCCCCCJJJJJJJJJJEEEEEEEEEEE: Nvol dit is al vaker gebeurt vandaag je mag ff meer taken gaan doen
+[23:16:07][Tijntjuh] logged in from 84.80.106.96 via cfxre
+[23:16:12][Tijntjuh] executed "refresh"
+[23:16:13][Tijntjuh] executed "ensure fpsboost"
+[23:23:09][sunnless] executed "giverefund steam:11000013e53e341 weapon_ump45 1"
+[00:00:11][SCHEDULER] Restarting server (scheduled restart at 00:00).
+[06:00:18][SCHEDULER] Restarting server (scheduled restart at 06:00).
+[08:24:52][rvhdccianhogendijk] logged in from 144.178.73.234 via password
+[11:24:32][jamie] logged in from 188.207.79.21 via cfxre
+[11:49:01][matthijs] Sending announcement: kan ik ff dvall doen?
+[11:51:21][matthijs] logged in from 89.99.67.196 via cfxre
+[11:51:24][matthijs] executed "RESTART SERVER"
+[11:51:37][matthijs] Cancelling next scheduled restart.
+[12:00:00][matthijs] executed "cfx_tebexwrapper:addCoins steam:110000133c7f273 5 limboland"
+[12:21:16][rvhdccianhogendijk] logged in from 104.28.30.74 via password
+[13:57:57][jesse] executed "giverefund steam:110000149fffdda WEAPON_PISTOL_MK2 1"
+[13:58:06][jesse] executed "giverefund steam:110000149fffdda at_compensator 1"
+[14:06:30][jesse] Banned player CCCCCCCCCCJJJJJJJJJJEEEEEEEEEEE: Maakt ticket aan voor PC CHECK
+[14:10:39][hugodejong] Banned player Ruben Koets: melden in ticjet combatlog
+[14:38:25][matthijs] Banned player jemaopfiets: gedraag je is
+[14:44:36][sunlees] logged in from 80.56.196.94 via cfxre
+[14:44:51][sunlees] Changing own password.
+[14:45:23][sunlees] Changing own identifiers.
+[14:49:28][sunlees] executed "giverefund steam:11000016381af1b weapon_pistol_mk2 1"
+[14:51:52][sunlees] executed "giverefund steam:110000153c4ee13 weapon_m1911 1"
+[15:10:18][rvhdccianhogendijk] Kicked #de gangster: Zelfde speler ingame
+[15:25:21][jamie] logged in from 88.159.244.69 via cfxre
+[15:57:17][badeend] Changing own password.
+[15:57:20][badeend] Changing own identifiers.
+[15:57:32][badeend] logged in from 217.120.47.68 via password
+[15:59:03][badeend] executed "/giverefund steam:11000014b1d65c3 money 200000"
+[15:59:20][badeend] executed "giverefund steam:11000014b1d65c3 money 200000"
+[16:30:53][badeend] Banned player Sawian: Artikel 8 - Combatloggen ( Wapen inleveren )
+[16:31:51][badeend] executed "giverefund steam:110000147340400 weapon_m1911 1"
+[16:32:30][badeend] executed "giverefund steam:110000147340400 ammo-9 100"
+[16:32:54][Niels] executed "giverefund steam:110000147340400 weapon_pistolmk2 1"
+[16:33:47][Niels] executed "giverefund steam:110000147340400 weapon_pistol_mk2 1"
+[16:33:59][Niels] executed "giverefund steam:110000147340400 ammo-9 150"
+[16:36:13][badeend] Banned player kleine.gg: Artikel 6 - VDM
+[16:43:13][Niels] executed "giverefund steam:110000147340400 weapon_m1911 1"
+[16:43:25][Niels] executed "giverefund steam:110000147340400 ammo-9 100"
+[16:43:42][luka] Kicked #de gangster: Kloten in staffzaak
+[16:52:17][Niels] executed "revive 125"
+[16:52:35][jaybully] Banned player drxy: NVOL
+[16:53:01][sunnless] Revoked ban id B726-8MN4 from Sawian
+[16:54:45][Niels] executed "giverefund steam:11000015c491a6e weapon_m1911 1"
+[16:55:04][Niels] executed "giverefund steam:11000015c491a6e at_m1911_suppressor 1"
+[16:55:13][Niels] executed "giverefund steam:11000015c491a6e at_m1911_clip_extended 1"
+[16:55:30][Niels] executed "giverefund steam:11000015c491a6e w_pi_m1911_carbon 1"
+[16:58:18][Niels] executed "revive 125"
+[16:58:34][sunnless] Banned player poenie.chapper: kloter. vdm
+[17:07:57][Niels] executed "revive 125"
+[17:08:29][Niels] Banned player Xyrox 070: RDM
+[17:13:19][Niels] Revoked ban id BCSP-XMR4 from Xyrox 070
+[17:13:32][Niels] Revoked ban id BTBQ-GX9G from kleine.gg
+[17:28:17][Niels] Banned player Xyrox 070: VDMen
+[17:33:20][Niels] Revoked ban id BWQ2-UAX1 from Xyrox 070
+[17:33:55][Niels] Banned player Xyrox 070: Vdmen en mij en sunnless uitschelden
+[17:45:22][badeend] Banned player Lorenzoo: Artikel 14 + Artikel 6 + Artikel 7 Wapen inleveren
+[17:49:25][degangster] Revoked ban id BWA3-ALFG from Lorenzoo
+[17:49:42][badeend] Banned player Lorenzoo: Artikel 7 - RDM
+[17:55:49][badeend] executed "giverefund steam:11000015c491a6e weapon_m1911 1"
+[17:56:07][badeend] executed "giverefund steam:11000015c491a6e at_m1911_suppressor 1"
+[17:56:19][badeend] executed "giverefund steam:11000015c491a6e at_m1911_flashlight 1"
+[17:56:29][badeend] executed "giverefund steam:11000015c491a6e at_m1911_clip_extended 1"
+[17:56:41][badeend] executed "giverefund steam:11000015c491a6e w_pi_m1911_roze 1"
+[17:57:38][badeend] executed "giverefund steam:11000014b1d65c3 WEAPON_MEOS45 1"
+[18:00:36][SCHEDULER] Restarting server (scheduled restart at 18:00).
+[18:00:50][badeend] Revoked ban id BXPG-3G86 from Xyrox 070
+[18:18:24][jamie] executed "fg unban 109"
+[18:31:10][Niels] executed "giverefund weapon_pistol_mk2 1"
+[18:32:07][Niels] executed "giverefund steam:110000147340400 weapon_pistol_mk2 1"
+[18:32:12][Niels] executed "giverefund steam:110000147340400 steam:110000147340400 1"
+[18:32:23][Niels] executed "giverefund steam:110000147340400 at_clip_extended_pistol 1"
+[18:32:31][Niels] executed "giverefund steam:110000147340400 at_compensator 1"
+[18:32:39][Niels] executed "giverefund steam:110000147340400 at_flashlight 1"
+[18:33:58][Niels] executed "giverefund steam:110000147340400 weapon_mac11 1"
+[18:34:08][Niels] executed "giverefund steam:110000147340400 ammo-9 15 1"
+[18:34:10][Niels] executed "giverefund steam:110000147340400 ammo-9 150 1"
+[18:34:17][Niels] executed "giverefund steam:110000147340400 ammo-45 150 1"
+[19:07:08][fahraw] Revoked ban id BELK-3SE9 from GlizzyGlober Guac Guac 9000
+[19:08:47][Niels] executed "clearloadout 44"
+[19:08:56][Niels] executed "/clearinventory 44"
+[19:09:04][Niels] executed "/clearinv 44"
+[19:09:10][Niels] executed "clearinv 44"
+[19:09:37][Niels] executed "clearinv 44"
+[19:14:19][Niels] executed "giverefund steam:110000147340400 WEAPON_ASSAULTRIFLE_MK2 1"
+[19:14:32][Niels] executed "giverefund steam:110000147340400 at_scope_holo 1"
+[19:14:43][Niels] executed "giverefund steam:110000147340400  at_grip 1"
+[19:14:54][Niels] executed "giverefund steam:110000147340400 at_clip_extended_rifle 1"
+[19:15:03][Niels] executed "giverefund steam:110000147340400 at_muzzle_tactical  1"
+[19:15:14][Niels] executed "giverefund steam:110000147340400 at_skin_patriotic  1"
+[19:15:38][Niels] executed "giverefund steam:110000147340400 ammo-rifle  300"
+[19:20:26][Niels] executed "revive 52"
+[19:37:39][Niels] executed "revive 4"
+[19:37:44][Niels] executed "revive 57"
+[19:37:53][Niels] executed "revive 52"
+[20:06:38][milann] Banned player GlizzyGlober Guac Guac 9000: Cheats, melden in ticket voor pc check
+[20:07:02][sunnless] Sending announcement: 25 minuten tot event! Verzamelen bij vliegeveld neem je eigen wapens mee!!
+[20:15:08][sunnless] Sending announcement: Iedereen mag meedoen btw bij het event
+[20:22:31][sunnless] Sending announcement: 10 min tot event. neem eigen wapens mee!
+[20:27:29][sunnless] Sending announcement: nog 4 minuten! Iedereen die hier nog niet is moet report maken
+[20:33:11][sunnless] Sending announcement: iedereen ga ff bij elkaar staan voor de hangar! iedereen gaat zo g tped worden
+[20:34:23][sunnless] Sending announcement: als je tp krijgt wacht rustig ff to iedereen er is
+[20:36:32][milann] Warned player [97] Xyrox 070: rACISME
+[20:36:52][milann] Revoked warn id WDG2-FLQY from Xyrox 070
+[20:37:49][sunnless] Sending announcement: elk team ga ff bij elkaar staan groep bij groep
+[20:38:42][sunnless] Sending announcement: kom allemaal ff naar mij maar blijf groep bij groep ff cirkel maken
+[20:42:58][sunnless] Sending announcement: jullie mogen over 1 minuut schieten! zoek snel een plek!
+[20:43:43][sunnless] Sending announcement: jullie mogen nu schieten! veel succes! mogen de beste winnen!!!!
+[20:48:15][sunnless] Sending announcement: Je mag niemand rippen! Er is ook nog niemand dood
+[20:49:49][sunnless] Sending announcement: Niemand is nog dood! Eerste cirkel staat in media van de discord!
+[20:50:45][sunnless] Sending announcement: ga zo snel mogelijk uit het rode gebied!
+[20:52:30][mats] DM to #Gabber: je kan helaas niet meer meedoen
+[20:54:39][sunnless] Sending announcement: Cirkel is weer veranderd!! Als je op de rode lijn zit bne je ook af. je moet er echt in zitten
+[20:56:16][sunnless] Sending announcement: er is nogsteeds niemand dood! Jullie spelen slim zo te zien!
+[21:04:54][sunnless] Sending announcement: cirkel is nu kleiner check media
+[21:06:08][sunnless] Banned player Mats: Staff abuse je mag je melden in ticket
+[21:07:31][sunnless] Sending announcement: probeer naar de cirkel te gaan jongens! de eilandjes horen daar niet bij
+[21:10:49][sunnless] Sending announcement: nieuwe zone
+[21:10:59][sunnless] Sending announcement: alleen het stadje is nog groen gebied!!
+[21:12:27][sunnless] Sending announcement: er zijn nog 5 groepen over! 10+man
+[21:14:28][sunnless] Sending announcement: veel mensen zitten nog niet in de zone! je hebt 2 minuten anders kill ik je
+[21:17:14][sunnless] Sending announcement: slecht getekend maar je mag nu alleen nog in het stadje! kijk media
+[21:19:57][sunnless] Sending announcement: LAATSTE CIRKEL STAAT IN MEDIA
+[21:21:06][jamie] Adding admin 'nielstaghi'.
+[21:21:09][sunnless] Sending announcement: er leeft nog 1 grote groep en nog 1 andere
+[21:21:22][sunnless] Sending announcement: sorry 1 grote groep nog 2 andere
+[21:22:05][sunnless] Sending announcement: als een solo dit nog wint krijg je de prijs x2 dat  zou heel knap zijn
+[21:25:36][notfietsendief] Banned player Soldier: 3x artikel 6 + melden in ticket
+[21:27:08][sunnless] Sending announcement: winnende team word gerevived
+[21:27:27][sunnless] Sending announcement: ggs boys
+[21:29:57][jamie] executed "cfx_tebexwrapper:addCoins steam:110000103519f4e 30 limboland"
+[21:30:02][sunnless] Sending announcement: kom naar beneden voor jullie overwinnings foto
+[21:32:01][nielstaghi] Changing own password.
+[21:59:42][sunnless] Revoked ban id B2VD-M8LT from Mats
+[22:01:39][jamie] Revoked ban id B3E2-J7A5 from GlizzyGlober Guac Guac 9000
+[22:02:06][jamie] Revoked ban id BW7Y-S74S from Xander99
+[22:02:11][jamie] executed "clearoffinv steam:11000014c93732b"
+[22:02:20][jamie] executed "combatlogboete steam:11000014c93732b"
+[22:02:38][jamie] executed "clearoffinv a11a9ccc476eda11fc720af7cfb4e3e5e6038857"
+[22:02:43][jamie] executed "combatlogboete a11a9ccc476eda11fc720af7cfb4e3e5e6038857"
+[22:03:55][jamie] Revoked ban id BQJH-CVRR from lucasking9160
+[22:04:04][jamie] executed "clearoffinv f1137228ab22e662e7151b56e049ae99d239fbe3"
+[22:04:09][jamie] executed "combatlogboete f1137228ab22e662e7151b56e049ae99d239fbe3"
+[22:04:38][jamie] Revoked ban id BWWG-Q1PG from zuid.45
+[22:05:40][jamie] executed "giverefund steam:11000014b1d65c3 money 200000"
+[22:19:22][fahraw] Warned player [189] J.$.075: schelden met het k woord
+[22:27:21][fahraw] Banned player jewee: Artikel 14 | NVOL, plus veelpleger zie geschiedenis....
+[22:39:44][mats] Banned player I'm your bitch: VDM op staff
+[22:40:26][mats] Banned player J.$.075: Safeban melden in ticket TAV Niels
+[22:44:37][mats] Revoked ban id BZHT-122J from I'm your bitch
+[00:00:46][SCHEDULER] Restarting server (scheduled restart at 00:00).
+[06:00:55][SCHEDULER] Restarting server (scheduled restart at 06:00).
+[12:00:04][SCHEDULER] Restarting server (scheduled restart at 12:00).
+[12:02:43][jesse] executed "revive 1"
+[14:15:30][rvhdccianhogendijk] Banned player Secreyy: Artikel 20 | AFK - Wanneer jij langer dan 15 minuten AFK staat terwijl dit niet mag en mensen jou willen rippen
+[14:16:34][rvhdccianhogendijk] Set notes for 40e76bd4daddf4abc660b838968f78f05ffcc5a6
+[15:14:20][rvhdccianhogendijk] Warned player [25] duncan.260110: Artikel 4 | FailRP - Wanneer jij met jou auto een mega schans neemt en door de lucht vliegt en daarna weer door loopt.
+[15:18:12][rvhdccianhogendijk] Revoked ban id BAD6-ZJW9 from Secreyy
+[16:12:36][sunlees] logged in from 80.56.196.94 via cfxre
+[16:12:41][milann] Banned player duncan.260110: NVOL, Combatlogg. melden in ticket voor wapen inleveren
+[16:13:14][milann] Banned player Dylandeboom321: NVOL, Combatlogg. melden in ticket voor wapen inleveren
+[16:15:01][sunlees] executed "giverefund steam:110000164f5cc71 weapon_mac11 1"
+[16:18:11][sunlees] logged in from 80.56.196.94 via cfxre
+[16:36:44][Niels] logged in from 84.84.4.101 via cfxre
+[16:37:11][Niels] executed "giverefund steam:110000147340400 weapon_mac11 1"
+[16:37:16][Niels] executed "giverefund steam:110000147340400 weapon_m1911  1"
+[16:37:26][Niels] executed "giverefund steam:110000147340400 ammo-9 150  1"
+[16:37:32][Niels] executed "giverefund steam:110000147340400 ammo-45 150  1"
+[16:42:35][Niels] Banned player [TBR] Romano!!: Schelden met hegendaagse ziektes
+[16:42:45][Niels] Revoked ban id BDKU-CKJ3 from [TBR] Romano!!
+[16:49:12][Niels] executed "giverefund steam:11000014ab4e48b weapon_meos45 1"
+[16:51:16][Niels] executed "giverefund steam:110000103519f4e weapon_ak47 1"
+[16:51:27][Niels] executed "giverefund steam:110000103519f4e ammo-rifle 150"
+[17:05:55][Niels] executed "revive 57"
+[18:00:13][SCHEDULER] Restarting server (scheduled restart at 18:00).
+[18:29:19][sunlees] executed "giverefund steam:110000153c4ee13 weapon_m1911 2"
+[18:29:49][sunlees] executed "giverefund steam:110000153c4ee13 weapon_skorp 1"
+[18:44:22][mats] Banned player Tibo: Combatloggen. melden in ticket
+[19:05:38][badeend] Warned player [29] SnabbaPiloot420: rascistishe opmerkingen maken tegen mede spelers | volgende keer krijg je een ban
+[19:07:08][matthijs] Banned player Cor: doei
+[19:07:17][matthijs] Sending announcement: hacker banned
+[19:08:38][milann] Banned player SnabbaPiloot420: Dreigen met booten, racistische opmerkingen. GUM
+[19:09:49][sander] Banned player Kareltjuh: Melden in ticket - Sander
+[19:22:57][badeend] executed "giverefund steam:11000011828c6fa weapon_m1911 1"
+[19:23:16][badeend] executed "giverefund steam:11000011828c6fa at_m1911_clip_extended 1"
+[19:24:23][badeend] executed "giverefund steam:11000011828c6fa ammo-9 125"
+[19:33:49][badeend] executed "giverefund steam:11000014510be25 WEAPON_SMITHWESSON 1"
+[19:34:12][badeend] executed "giverefund steam:11000014510be25 ammo-9 160"
+[19:48:53][badeend] executed "giverefund steam:11000014a218b9dWEAPON_AK47  at_ak47_scope_1 at_ak47_suppressor at_ak47_flashlight at_ak47_grip at_ak47_clip_extended at_ak47_clip_drummag w_ar_ak47_luxe at_ak47_camo_silver at_ak47_camo_redtiger at_ak47_camo_roze  w_ar_ak47_darkmatter w_ar_ak47_groen w_ar_ak47_blauw 1"
+[19:49:20][badeend] executed "giverefund steam:11000014a218b9d WEAPON_AK47 1"
+[19:49:28][badeend] executed "giverefund steam:11000014a218b9d at_ak47_scope_1 1"
+[19:49:43][badeend] executed "giverefund steam:11000014a218b9d at_ak47_suppressor 1"
+[19:49:52][badeend] executed "giverefund steam:11000014a218b9d at_ak47_flashlight 1"
+[19:49:58][badeend] executed "giverefund steam:11000014a218b9d at_ak47_grip"
+[19:50:04][badeend] executed "giverefund steam:11000014a218b9d at_ak47_grip 1"
+[19:50:21][badeend] executed "giverefund steam:11000014a218b9d at_ak47_clip_drummag 1"
+[19:50:40][badeend] executed "giverefund steam:11000014a218b9d w_ar_ak47_darkmatter 1"
+[19:52:16][badeend] executed "giverefund steam:11000014a218b9d ammo-rifle 200"
+[19:54:08][badeend] executed "giverefund steam:11000014b1d65c3 money 500000"
+[19:56:29][jamie] logged in from 88.159.244.69 via cfxre
+[19:56:57][badeend] executed "giverefund steam:110000161b503a4 WEAPON_ASSAULTRIFLE_MK2 1"
+[19:57:14][badeend] executed "giverefund steam:110000161b503a4 ammo-rifle 250"
+[20:02:45][helios] logged in from 83.84.156.149 via password
+[20:03:55][jamie] Revoked ban id BWX1-VYPJ from Kareltjuh
+[20:04:04][jamie] executed "clearoffinv 8aefa6ef533b0581705c679fb1fe6753fb2ae7c3"
+[20:04:08][jamie] executed "combatlogboete 8aefa6ef533b0581705c679fb1fe6753fb2ae7c3"
+[20:06:11][helios] executed "giverefund steam:11000015e5322ef WEAPON_UZI 1"
+[20:07:46][jamie] Scheduling server restart at +23
+[20:12:05][matthijs] Warned player [34] stiffa: je weet wel waarvoor
+[20:13:03][matthijs] Kicked #stiffa: staff heeft geordeeld was geen nvol, en gedraag je maar is een keer
+[20:19:35][sunnless] Warned player [96] jens: Schieten zonder reden + Gta style driving
+[20:30:17][SCHEDULER] Restarting server (scheduled restart at 20:30).
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/14/2024, 8:31:13 PM
+================================================================
+[20:31:18][sunlees] logged in from 80.56.196.94 via cfxre
+[20:32:41][sunlees] executed "giverefund steam:11000014510be25 weapon_smithwesson 1"
+[20:32:51][sunlees] executed "giverefund steam:11000014510be25 ammo-9 150"
+[20:33:53][jamie] logged in from 88.159.244.69 via cfxre
+[20:39:29][jamie] Adding admin 'nielstaghi2'.
+[20:39:40][jamie] executed "setgroup 26 modteam"
+[20:40:18][nielstaghi2] Changing own password.
+[20:40:19][nielstaghi2] Changing own identifiers.
+[20:40:38][nielstaghi2] logged in from 84.84.4.101 via password
+[20:43:17][nielstaghi2] executed "giverefund steam:11000014bafb434 cash 1000000"
+[20:43:30][nielstaghi2] executed "giverefund steam:11000014bafb434 cash 90000000"
+[20:45:37][sunnless] Banned player jens: kloter
+[20:56:14][jamie] executed "cfx_tebexwrapper:addCoins steam:1100001615d185f 5 limboland"
+[20:56:52][jamie] executed "cfx_tebexwrapper:addCoins steam:11000013f2a7824 5 limboland"
+[21:03:54][degangster] Banned player Xyrox 070: Ticket maken + Wapen inleveren bij hoger op
+[21:05:47][nielstaghi2] executed "giverefund steam:11000014829e85e weapon_mp5 1"
+[21:05:52][nielstaghi2] executed "giverefund steam:11000014829e85e weapon_skorp 1"
+[21:05:57][nielstaghi2] executed "giverefund steam:11000014829e85e ammo-9 300"
+[21:11:16][degangster] Revoked ban id B6LN-PJ9K from Xyrox 070
+[21:35:44][milann] Banned player lucasking9160: Cheats
+[21:35:54][milann] Banned player Xander99: Cheats
+[21:46:11][rvhdccianhogendijk] logged in from 104.28.30.74 via password
+[21:52:32][jamie] executed "giverefund steam:11000013f2a7824 money 200000"
+[21:54:21][jamie] executed "cfx_tebexwrapper:addCoins steam:11000013f2a7824 35 limboland"
+[22:14:54][sunlees] logged in from 80.56.196.94 via cfxre
+[22:26:46][jamie] Revoked ban id BWA8-P7D4 from J.$.075
+[22:27:34][nielstaghi2] logged in from 84.84.4.101 via password
+[22:47:01][sunnless] Warned player [86] [TBR] Romano!!: Praten terwijl je dood bent
+[23:05:06][sunnless] Kicked #Silk road user: stop is
+[23:27:35][sunnless] Banned player kleine.gg: Combatloggen bij grote bank + wapen inleveren
+[23:29:38][sunnless] Banned player Flixxy: Combatlog melden in ticket
+[23:30:25][sunnless] executed "combatlogboete steam:110000157a8e12c"
+[23:32:08][sunnless] Revoked ban id BJFQ-E9WK from Flixxy
+[23:34:11][sunnless] Banned player Flixxy: Combatloggen en niet de stad willen joinen
+[23:34:18][jamie] Banned <discord:394125162867589130>: Cheats/member cjng
+[23:34:58][jamie] executed "fg offlineban 2e0b5414794efcafccac1802cc27e0b81446004b Member CJNG / Cheats"
+[23:35:18][jamie] executed "fg offlineban license:2e0b5414794efcafccac1802cc27e0b81446004b Member CJNG / Cheats"
+[23:36:39][sunnless] executed "giverefund steam:110000166c01340 weapon_smithwesson 1"
+[23:38:23][sunnless] executed "giverefund steam:110000166c01340 weapon_meos45 1"
+[23:39:22][jamie] executed "fg offlineban license:2e0b5414794efcafccac1802cc27e0b81446004b Member CJNG / Cheats"
+[23:41:46][jamie] executed "cfx_tebexwrapper:addCoins steam:11000014e742f1f 15 limboland"
+[23:43:17][jamie] executed "cfx_tebexwrapper:addCoins steam:11000014e742f1f 15 limboland"
+[23:48:46][sunnless] Banned player Regillio: reden cheats. ( jezelf healen )
+[23:54:13][sunnless] Revoked ban id BBYZ-JAEU from Regillio
+[23:59:06][sunnless] Banned player Regillio: ak 12 inleveren voor unban wegens nvol
+[00:00:18][SCHEDULER] Restarting server (scheduled restart at 00:00).
+[00:58:46][jamie] logged in from 88.159.244.69 via cfxre
+[00:59:11][jamie] Banned player Erik D.: Politie corruptie melden in ticket
+[00:59:26][jamie] Banned player neroheronl: Politie corruptie melden in ticket
+[06:00:27][SCHEDULER] Restarting server (scheduled restart at 06:00).
+[10:59:23][Tijntjuh] logged in from 84.80.106.96 via cfxre
+[10:59:27][Tijntjuh] executed "refresh"
+[10:59:31][Tijntjuh] executed "ensure frp-staffdienst"
+[11:02:42][Tijntjuh] executed "refresh"
+[11:02:43][Tijntjuh] executed "ensure frp-staffdienst"
+[11:02:58][Tijntjuh] executed "refresh"
+[11:02:58][Tijntjuh] executed "refresh"
+[11:02:59][Tijntjuh] executed "refresh"
+[11:03:00][Tijntjuh] executed "ensure frp-staffdienst"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/15/2024, 11:06:15 AM
+================================================================
+[11:22:49][rvhdccianhogendijk] logged in from 172.225.253.142 via password
+[11:23:07][matthijs] logged in from 89.99.67.196 via cfxre
+[11:38:51][rvhdccianhogendijk] logged in from 83.87.186.82 via password
+[12:00:15][SCHEDULER] Restarting server (scheduled restart at 12:00).
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/15/2024, 12:10:10 PM
+================================================================
+[12:11:14][matthijs] logged in from 89.99.67.196 via cfxre
+[12:11:48][matthijs] Banned player Dymas: RDM - clip gezien
+[12:12:59][matthijs] executed "giverefund steam:11000014ab4e48b weapon_meos45 1"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/15/2024, 12:21:11 PM
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/15/2024, 12:32:11 PM
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/15/2024, 12:43:11 PM
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/15/2024, 12:54:12 PM
+================================================================
+[13:01:34][rvhdccianhogendijk] logged in from 83.87.186.82 via password
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/15/2024, 1:05:14 PM
+================================================================
+[13:49:23][rvhdccianhogendijk] logged in from 83.87.186.82 via password
+[13:54:25][jesse] logged in from 84.82.187.23 via password
+[14:58:25][degangster] Warned player [2] [TBR] Romano!!: met een supra in de bergenb rijden
+[15:09:16][jesse] Warned player [2] [TBR] Romano!!: Artikel 7 | RDM
+[15:16:01][badeend] logged in from 217.120.47.68 via password
+[15:16:04][sunnless] Revoked ban id BAVN-77DQ from kleine.gg
+[15:16:24][badeend] executed "giverefund steam:110000161b503a4 ammo-rifle 250"
+[15:16:46][badeend] executed "giverefund steam:110000161b503a4  WEAPON_ASSAULTRIFLE_MK2 1"
+[15:17:13][badeend] executed "giverefund steam:11000014b1d65c3 money 350000"
+[15:17:22][matthijs] logged in from 89.99.67.196 via cfxre
+[15:17:29][matthijs] executed "checkappa license:385c4393a0ca00ac9ae5af768a8a51134700bfe8"
+[15:17:36][matthijs] executed "checkappa 385c4393a0ca00ac9ae5af768a8a51134700bfe8"
+[15:17:54][matthijs] executed "checkappa"
+[15:18:09][matthijs] executed "checkappa 11000015e975d3f"
+[15:18:17][badeend] executed "giverefund steam:110000161b503a4 WEAPON_M1911 1"
+[15:18:33][badeend] executed "giverefund steam:110000161b503a4 ammo-9 250"
+[15:18:49][sunnless] Set notes for 63c8d5cf19fd35dc03b3b36843ea9f228f45a72d
+[15:19:43][sunnless] executed "combatlogboete 63c8d5cf19fd35dc03b3b36843ea9f228f45a72d"
+[15:26:22][nielstaghi2] logged in from 84.84.4.101 via password
+[15:27:18][nielstaghi2] executed "giverefund steam:110000147340400 weapon_uzi 1"
+[15:27:29][nielstaghi2] executed "giverefund steam:110000147340400 weapon_uzi 1"
+[15:28:37][matthijs] executed "checkappa"
+[15:29:20][nielstaghi2] executed "revive 30"
+[15:29:22][matthijs] Banned player Matrix: melden in ticket mbt geld - matthijs
+[15:32:14][matthijs] Banned player lucasking9160: te veel geld - melden in ticket
+[15:32:30][matthijs] executed "checkmoney"
+[15:46:08][matthijs] Editing user 'badeend'.
+[15:47:27][milann] Banned player stxcs: CHEATS, heb clip gezien. melden in ticket voor pc check
+[15:48:14][badeend] Warned player [42] kleine.gg: RDM
+[15:53:28][nielstaghi2] executed "giverefund steam:110000166c01340 weapon_m1911 1"
+[15:54:08][matthijs] executed "checkmoney"
+[16:05:05][matthijs] Banned player TBR | Badeend🦆: staff abuse
+[16:05:35][matthijs] Deleting user 'badeend'.
+[16:11:59][jaybully] Banned player pauxdh: Schelden met hedendaagse ziektes
+[16:13:23][matthijs] Revoked ban id BQXN-51UJ from TBR | Badeend🦆
+[16:13:50][matthijs] Banned player TBR | Badeend🦆: Staff abuse
+[16:17:45][matthijs] executed "checkappa"
+[16:23:20][matthijs] executed "wipe 6edc8d2f353320ca79bbeaf44bdf3206608da366"
+[16:46:32][sunnless] Warned player [55] optimisticlilia: copbaiten zelf toegegeven
+[17:35:37][jamie] logged in from 88.159.244.69 via cfxre
+[18:00:21][SCHEDULER] Restarting server (scheduled restart at 18:00).
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/15/2024, 6:10:10 PM
+================================================================
+[18:12:25][rvhdccianhogendijk] logged in from 83.87.186.82 via password
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/15/2024, 6:21:10 PM
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/15/2024, 6:32:11 PM
+================================================================
+[18:38:19][jesse] Warned player [6] w0rpyyt: Artikel 7 | RDM
+[18:49:51][degangster] Banned player w0rpyyt: wapen inleveren +ticket maken
+[18:51:21][jesse] logged in from 84.82.187.23 via password
+[18:51:51][jesse] executed "giverefund steam:110000166c01340 WEAPON_SMITHWESSON 1"
+[18:52:03][jesse] executed "giverefund steam:110000166c01340 ammo-9 100"
+[18:58:04][jesse] Warned player [23] bumba: Artikel 00 | Report spam
+[19:10:31][degangster] Warned player [26] Marcell: vdm
+[19:18:07][jaybully] Revoked ban id B7RM-T93S from pauxdh
+[19:34:22][jamie] logged in from 88.159.244.69 via cfxre
+[19:35:55][rvhdccianhogendijk] logged in from 83.87.186.82 via password
+[19:39:30][matthijs] Banned player fristi: schelden met ziektes - doei mongool
+[19:39:31][jaybully] Banned player fristi: schelden met hedendaagse ziektes
+[19:44:40][jesse] Warned player [31] bomboclat.GG: Artikel 6 | VDM
+[19:48:43][jesse] executed "giverefund steam:11000014ccc8344 WEAPON_MEOS45 1"
+[19:49:04][jesse] executed "giverefund steam:11000014ccc8344 at_meos45_clip_extended 1"
+[20:02:54][jamie] logged in from 88.159.244.69 via cfxre
+[20:11:56][degangster] Warned player [71] Xyrox 070: rdm
+[20:20:58][matthijs] Warned player [71] Xyrox 070: weet je zelf wel
+[20:54:35][nielstaghi2] logged in from 84.84.4.101 via password
+[20:54:58][nielstaghi2] executed "revive 48"
+[20:57:20][nielstaghi2] Banned player optimisticlilia: Safeban ticket aanmaken voor PC Check +RDM
+[20:58:14][nielstaghi2] executed "giverefund steam:11000015aeb5d12 weapon_ak47u 1"
+[20:58:24][nielstaghi2] executed "giverefund steam:11000015aeb5d12 ammo-rifle  150"
+[20:58:54][nielstaghi2] executed "giverefund steam:110000147340400 weapon_ak47"
+[20:59:03][nielstaghi2] executed "giverefund steam:110000147340400 ammo-rifle  150"
+[20:59:14][nielstaghi2] executed "giverefund steam:110000147340400 weapon_ak47 1"
+[20:59:26][nielstaghi2] executed "giverefund steam:110000147340400 weapon_pistolmk2 1"
+[20:59:44][nielstaghi2] executed "giverefund steam:110000147340400 at_clip_extended_pistol 1"
+[20:59:52][nielstaghi2] executed "giverefund steam:110000147340400 at_compensator 1"
+[21:00:19][nielstaghi2] executed "giverefund steam:110000147340400 weapon_pistolmk2 1"
+[21:00:30][nielstaghi2] executed "giverefund steam:110000147340400 weapon_pistol_mk2 1"
+[21:02:23][nielstaghi2] Banned player Xyrox 070: Combatloggen maak maak ticket aan om te melden
+[21:04:24][nielstaghi2] executed "revive 84"
+[21:06:09][nielstaghi2] executed "giverefund steam:110000149fffdda weapon_ak47 1"
+[21:06:23][nielstaghi2] executed "giverefund steam:110000149fffdda at_ak47_scope_1 1"
+[21:06:31][nielstaghi2] executed "giverefund steam:110000149fffdda at_ak47_grip 1"
+[21:06:37][nielstaghi2] executed "giverefund steam:110000149fffdda at_ak47_clip_drummag 1"
+[21:06:48][nielstaghi2] executed "giverefund steam:110000149fffdda w_ar_ak47_darkmatter 1"
+[21:13:26][nielstaghi2] executed "giverefund steam:110000147340400 ammo-9 150 1"
+[21:37:58][nielstaghi2] executed "revive 110"
+[21:44:42][nielstaghi2] executed "heal 111"
+[21:44:46][nielstaghi2] executed "/heal 11"
+[21:44:47][nielstaghi2] executed "/heal 111"
+[21:57:02][nielstaghi2] executed "revive 111"
+[21:57:09][nielstaghi2] executed "revive 110"
+[21:59:55][nielstaghi2] executed "revive 111"

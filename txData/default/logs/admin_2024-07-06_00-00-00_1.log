@@ -1,0 +1,39 @@
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/6/2024, 12:00:18 AM
+================================================================
+
+================================================================
+======== Log Rotated - 7/6/2024, 12:00:18 AM                    
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/6/2024, 6:00:16 AM
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/6/2024, 12:00:16 PM
+================================================================
+[17:08:55][matthijs] Adding admin 'Sunnless'.
+[17:18:49][Sunnless] Changing own password.
+[17:18:52][Sunnless] Changing own identifiers.
+[17:22:46][matthijs] logged in from 89.99.67.196 via cfxre
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/6/2024, 6:00:17 PM
+================================================================
+[18:01:08][matthijs] logged in from 89.99.67.196 via cfxre
+[18:04:53][matthijs] executed "ensure "jtm-grotebankov""
+[19:36:07][jamie] logged in from 88.159.244.69 via cfxre
+[19:37:38][jamie] executed "RESTART SERVER"
+[20:51:21][jamie] executed "RESTART SERVER"
+[20:54:02][jamie] executed "sss"
+[21:00:11][jamie] executed "RESTART SERVER"
+[21:00:35][jamie] executed "refresh"
+[21:00:49][jamie] executed "restart jtm-gangjob"
+[21:01:35][jamie] executed "RESTART SERVER"
+[21:01:58][jamie] executed "refresh"
+[21:02:01][jamie] executed "restart jtm-gangjob"
+[21:03:40][jamie] executed "RESTART SERVER"
+[21:04:03][jamie] executed "refresh"
+[21:04:06][jamie] executed "restart jtm-gangjob"

@@ -1,0 +1,122 @@
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/16/2024, 12:00:18 AM
+================================================================
+
+================================================================
+======== Log Rotated - 7/16/2024, 12:00:18 AM                   
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/16/2024, 6:00:18 AM
+================================================================
+[11:07:16][jamie] logged in from 88.159.244.69 via cfxre
+[11:07:18][jamie] executed "RESTART SERVER"
+[11:08:59][jamie] executed "stop "frp-report""
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/16/2024, 11:52:53 AM
+================================================================
+[11:59:04][jamie] logged in from 88.159.244.69 via cfxre
+[11:59:38][jamie] executed "!jdlogs setup"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/16/2024, 12:00:16 PM
+================================================================
+[12:40:27][jamie] logged in from 88.159.244.69 via cfxre
+[13:14:32][jamie] executed "ensure "JD_logsV3""
+[13:15:05][jamie] executed "refresh"
+[13:15:09][jamie] executed "stop "screenshot-basic-master""
+[13:15:11][jamie] executed "ensure "screenshot-basic""
+[13:15:15][jamie] executed "ensure "JD_logsV3""
+[13:15:54][jamie] executed "ensure "JD_logsV3""
+[13:16:24][jamie] executed "ensure "JD_logsV3""
+[14:29:37][jamie] executed "ensure "JD_logsV3""
+[14:32:16][Tijntjuh] logged in from 84.80.106.96 via cfxre
+[14:33:23][Tijntjuh] executed "ensure 185.228.82.197:30120"
+[14:33:28][Tijntjuh] executed "ensure JD_logsV3"
+[14:34:01][Tijntjuh] executed "jdlogs"
+[14:35:36][Tijntjuh] executed "ensure JD_logsV3"
+[14:36:21][Tijntjuh] executed "ensure JD_logsV3"
+[14:36:52][Tijntjuh] executed "ensure JD_logsV3"
+[14:37:00][Tijntjuh] executed "ensure JD_logsV3"
+[14:37:26][Tijntjuh] executed "ensure JD_logsV3"
+[14:37:33][Tijntjuh] executed "ensure JD_logsV3"
+[14:37:47][Tijntjuh] executed "ensure JD_logsV3"
+[14:38:14][Tijntjuh] executed "ensure JD_logsV3"
+[14:38:21][Tijntjuh] executed "ensure JD_logsV3"
+[14:38:46][Tijntjuh] executed "refresh"
+[14:38:47][Tijntjuh] executed "ensure JD_logsV3"
+[14:38:51][Tijntjuh] executed "refresh"
+[14:39:27][Tijntjuh] executed "refresh"
+[14:39:28][Tijntjuh] executed "ensure JD_logsV3"
+[14:39:43][Tijntjuh] executed "ensure JD_logsV3"
+[14:40:33][Tijntjuh] executed "ensure JD_logsV3"
+[14:43:53][Tijntjuh] executed "refresh"
+[14:43:54][Tijntjuh] executed "ensure JD_logsV3"
+[14:44:44][Tijntjuh] executed "refresh"
+[14:44:44][Tijntjuh] executed "ensure JD_logsV3"
+[14:45:20][Tijntjuh] executed "refresh"
+[14:45:21][Tijntjuh] executed "ensure JD_logsV3"
+[14:45:59][Tijntjuh] executed "ensure JD_logsV3"
+[14:46:00][Tijntjuh] executed "refresh"
+[14:46:01][Tijntjuh] executed "ensure JD_logsV3"
+[14:47:16][Tijntjuh] executed "refresh"
+[14:47:17][Tijntjuh] executed "ensure JD_logsV3"
+[14:47:39][Tijntjuh] executed "ensure JD_logsV3"
+[14:48:44][Tijntjuh] executed "refresh"
+[14:48:45][Tijntjuh] executed "ensure JD_logsV3"
+[14:50:16][Tijntjuh] executed "refresh"
+[14:50:17][Tijntjuh] executed "ensure JD_logsV3"
+[14:50:27][Tijntjuh] executed "ensure JD_logsV3"
+[14:50:39][Tijntjuh] executed "refresh"
+[14:50:40][Tijntjuh] executed "ensure JD_logsV3"
+[14:51:14][Tijntjuh] executed "refresh"
+[14:51:14][Tijntjuh] executed "ensure JD_logsV3"
+[14:51:47][Tijntjuh] executed "refresh"
+[14:51:47][Tijntjuh] executed "ensure JD_logsV3"
+[14:52:06][Tijntjuh] executed "refresh"
+[14:52:06][Tijntjuh] executed "ensure JD_logsV3"
+[14:53:14][Tijntjuh] executed "ensure JD_logsV3"
+[14:53:37][Tijntjuh] executed "ensure JD_logsV3"
+[14:56:31][Tijntjuh] executed "refresh"
+[14:56:32][Tijntjuh] executed "ensure JD_logsV3"
+[14:56:46][Tijntjuh] executed "refresh"
+[14:56:46][Tijntjuh] executed "ensure JD_logsV3"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/16/2024, 6:00:17 PM
+================================================================
+[20:49:44][jamie] logged in from 88.159.244.69 via cfxre
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/16/2024, 9:16:42 PM
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/16/2024, 9:17:47 PM
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/16/2024, 9:22:20 PM
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/16/2024, 9:24:45 PM
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/16/2024, 9:27:53 PM
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/16/2024, 9:30:47 PM
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/16/2024, 9:32:05 PM
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/16/2024, 9:33:49 PM
+================================================================

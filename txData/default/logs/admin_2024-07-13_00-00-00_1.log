@@ -1,0 +1,68 @@
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/13/2024, 12:00:16 AM
+================================================================
+
+================================================================
+======== Log Rotated - 7/13/2024, 12:00:16 AM                   
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/13/2024, 6:00:16 AM
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/13/2024, 12:00:16 PM
+================================================================
+[14:17:26][jamie] logged in from 88.159.244.69 via cfxre
+[14:24:26][jamie] executed "stop "Eiland""
+[14:25:37][jamie] executed "RESTART SERVER"
+[14:27:40][jamie] executed "refresh"
+[14:32:05][jamie] executed "RESTART SERVER"
+[14:42:49][jamie] executed "RESTART SERVER"
+[14:44:44][jamie] executed "RESTART SERVER"
+[14:45:34][jamie] executed "RESTART SERVER"
+[14:46:25][jamie] executed "stop "mlo-extra""
+[14:48:48][jamie] executed "RESTART SERVER"
+[14:51:04][jamie] executed "RESTART SERVER"
+[14:52:51][jamie] executed "refresh"
+[14:53:13][jamie] executed "RESTART SERVER"
+[14:55:16][jamie] executed "RESTART SERVER"
+[15:25:06][matthijs] logged in from 89.99.67.196 via cfxre
+[17:06:55][jamie] executed "RESTART SERVER"
+[17:17:17][jamie] Approved whitelist request from onlydaggg#0.
+[17:17:19][jamie] Approved whitelist request from nelisbanjo10#0.
+[17:17:20][jamie] Denied whitelist request RD6RT.
+[17:29:25][jamie] Adding admin 'bilalwahib'.
+[17:30:43][bilalwahib] Sending announcement: Nigger.
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/13/2024, 5:34:50 PM
+================================================================
+[17:45:53][bilalwahib] Changing own password.
+[17:46:13][bilalwahib] executed "setgroup 3 owner"
+[17:46:17][bilalwahib] executed "setgroup 2 owner"
+[17:46:34][bilalwahib] executed "setgroup 1 owner"
+[17:46:50][bilalwahib] executed "fg"
+[17:46:53][bilalwahib] executed "fg help"
+[17:47:18][bilalwahib] executed "fg perm set 2 ban * allow"
+[17:48:08][bilalwahib] executed "fg perm set 2 adminmenu * allow"
+[17:49:27][bilalwahib] executed "fg help"
+[17:49:32][bilalwahib] executed "fg menu"
+[17:49:36][bilalwahib] executed "fgm"
+[17:49:58][bilalwahib] executed "fg perm set 2 owner * allow"
+[17:51:13][bilalwahib] executed "fg perm set 2 permissions * allow"
+[17:51:17][bilalwahib] executed "fg perm set 2 permission * allow"
+[17:52:14][bilalwahib] Revoked warn id WK3Y-65WS from Jackdebruin123
+[17:52:18][bilalwahib] Revoked warn id WT97-MXLW from Milann
+[17:52:30][jamie] logged in from 88.159.244.69 via cfxre
+[17:52:33][jamie] executed "fg safe-events install"
+[17:53:30][bilalwahib] Changing own password.
+[17:54:13][jamie] executed "RESTART SERVER"
+[17:59:09][bilalwahib] Cancelling next scheduled restart.
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 7/13/2024, 6:00:18 PM
+================================================================
+[18:26:34][bilalwahib] executed "RESTART SERVER"
+[18:47:56][jamie] logged in from 88.159.244.69 via cfxre

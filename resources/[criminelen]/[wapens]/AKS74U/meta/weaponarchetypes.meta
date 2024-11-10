@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+		  <modelName>aks74u</modelName>
+		  <txdName>aks74u</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>	
+		<Item>
+		  <modelName>aks74u_flsh_01</modelName>
+		  <txdName>aks74u_flsh</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>			
+		<Item>
+		  <modelName>aks74u_flsh_02</modelName>
+		  <txdName>aks74u_flsh</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_flsh_03</modelName>
+		  <txdName>aks74u_flsh</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_flsh_04</modelName>
+		  <txdName>aks74u_flsh2</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_flsh_05</modelName>
+		  <txdName>aks74u_flsh2</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_flsh_06</modelName>
+		  <txdName>aks74u_flsh2</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_flsh_07</modelName>
+		  <txdName>aks74u_flsh</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_flsh_08</modelName>
+		  <txdName>aks74u_flsh</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_flsh_09</modelName>
+		  <txdName>aks74u_flsh</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_flsh_10</modelName>
+		  <txdName>aks74u_flsh2</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_handguard_01</modelName>
+		  <txdName>aks74u_handguards</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>	
+		<Item>
+		  <modelName>aks74u_handguard_02</modelName>
+		  <txdName>aks74u_handguards</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>	
+		<Item>
+		  <modelName>aks74u_handguard_03</modelName>
+		  <txdName>aks74u_handguards</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>	
+		<Item>
+		  <modelName>aks74u_handguard_04</modelName>
+		  <txdName>aks74u_handguards</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>	
+		<Item>
+		  <modelName>aks74u_handguard_05</modelName>
+		  <txdName>aks74u_handguards</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>	
+		<Item>
+		  <modelName>aks74u_handguard_06</modelName>
+		  <txdName>aks74u_handguards</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>	
+		<Item>
+		  <modelName>aks74u_handguard_07</modelName>
+		  <txdName>aks74u_handguards2</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>	
+		<Item>
+		  <modelName>aks74u_handguard_08</modelName>
+		  <txdName>aks74u_handguards2</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>			
+		<Item>
+		  <modelName>aks74u_mag_01</modelName>
+		  <txdName>aks74u_mags</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>				
+		<Item>
+		  <modelName>aks74u_mag_02</modelName>
+		  <txdName>aks74u_mags</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>			
+		<Item>
+		  <modelName>aks74u_mag_03</modelName>
+		  <txdName>aks74u_mags</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>			
+		<Item>
+		  <modelName>aks74u_mag_04</modelName>
+		  <txdName>aks74u_mags2</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>			
+		<Item>
+		  <modelName>aks74u_mag_05</modelName>
+		  <txdName>aks74u_mags2</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>			
+		<Item>
+		  <modelName>aks74u_mag_06</modelName>
+		  <txdName>aks74u_mags3</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>			
+		<Item>
+		  <modelName>aks74u_mag_07</modelName>
+		  <txdName>aks74u_mags3</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>			
+		<Item>
+		  <modelName>aks74u_mag_08</modelName>
+		  <txdName>aks74u_mags3</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>			
+		<Item>
+		  <modelName>aks74u_mag_09</modelName>
+		  <txdName>aks74u_mags3</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_muz_01</modelName>
+		  <txdName>aks74u_muz</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_muz_02</modelName>
+		  <txdName>aks74u_muz</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_muz_03</modelName>
+		  <txdName>aks74u_muz</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_muz_04</modelName>
+		  <txdName>aks74u_muz</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_muz_05</modelName>
+		  <txdName>aks74u_muz</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_muz_06</modelName>
+		  <txdName>aks74u_muz</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_muz_07</modelName>
+		  <txdName>aks74u_muz2</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_muz_08</modelName>
+		  <txdName>aks74u_muz2</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_muz_09</modelName>
+		  <txdName>aks74u_muz3</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>			
+		<Item>
+		  <modelName>aks74u_scope_01</modelName>
+		  <txdName>aks74u_scopes</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>			
+		<Item>
+		  <modelName>aks74u_scope_02</modelName>
+		  <txdName>aks74u_scopes</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_scope_03</modelName>
+		  <txdName>aks74u_scopes</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_scope_04</modelName>
+		  <txdName>aks74u_scopes</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_scope_05</modelName>
+		  <txdName>aks74u_scopes2</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_scope_06</modelName>
+		  <txdName>aks74u_scopes2</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_scope_07</modelName>
+		  <txdName>aks74u_scopes2</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_scope_08</modelName>
+		  <txdName>aks74u_scopes2</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_scope_09</modelName>
+		  <txdName>aks74u_scopes3</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_scope_10</modelName>
+		  <txdName>aks74u_scopes3</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_scope_11</modelName>
+		  <txdName>aks74u_scopes4</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_scope_12</modelName>
+		  <txdName>aks74u_scopes</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_scope_13</modelName>
+		  <txdName>aks74u_scopes</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_scope_14</modelName>
+		  <txdName>aks74u_scopes</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_scope_15</modelName>
+		  <txdName>aks74u_scopes</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_scope_16</modelName>
+		  <txdName>aks74u_scopes2</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_scope_17</modelName>
+		  <txdName>aks74u_scopes2</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_stock_01</modelName>
+		  <txdName>aks74u_stocks</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>		
+		<Item>
+		  <modelName>aks74u_stock_02</modelName>
+		  <txdName>aks74u_stocks</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>	
+		<Item>
+		  <modelName>aks74u_stock_03</modelName>
+		  <txdName>aks74u_stocks</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>	
+		<Item>
+		  <modelName>aks74u_stock_04</modelName>
+		  <txdName>aks74u_stocks</txdName>
+		  <ptfxAssetName>NULL</ptfxAssetName>
+		  <lodDist value="150"/>
+		</Item>					
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>

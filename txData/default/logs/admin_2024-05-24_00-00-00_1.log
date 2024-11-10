@@ -1,0 +1,213 @@
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/24/2024, 12:00:26 AM
+================================================================
+
+================================================================
+======== Log Rotated - 5/24/2024, 12:00:26 AM                   
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/24/2024, 6:00:20 AM
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/24/2024, 12:00:15 PM
+================================================================
+[12:57:08][jamie] logged in from 88.159.244.69 via cfxre
+[12:57:25][jamie] Changing global settings.
+[12:58:13][jamie] Changing discordBot settings.
+[12:58:27][jamie] Status embed saved.
+[13:00:10][jamie] Changing Player Manager settings.
+[13:00:16][jamie] Changing Player Manager settings.
+[13:00:25][jamie] Revoked ban id BKY3-C4B9 from bumba
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/24/2024, 1:09:03 PM
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/24/2024, 1:10:15 PM
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/24/2024, 1:11:26 PM
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/24/2024, 1:12:56 PM
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/24/2024, 1:19:35 PM
+================================================================
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/24/2024, 1:32:20 PM
+================================================================
+[13:47:13][jamie] logged in from 88.159.244.69 via cfxre
+[13:47:30][jamie] executed "setgroup 1 beheerteam"
+[13:47:37][jamie] executed "setgroup 1 admin"
+[14:03:09][matthijs] logged in from 89.99.67.196 via cfxre
+[14:09:37][matthijs] executed "setgroup 4 beheerteam"
+[14:09:43][matthijs] executed "setgroup 4 superadmin"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/24/2024, 2:16:06 PM
+================================================================
+[14:20:30][jamie] logged in from 88.159.244.69 via cfxre
+[14:20:36][matthijs] executed "restart esx_policejob"
+[14:21:18][matthijs] logged in from 89.99.67.196 via cfxre
+[14:21:23][jesse] logged in from 84.82.187.23 via cfxre
+[14:22:02][matthijs] executed "restart esx_policejob"
+[14:22:19][matthijs] executed "restart esx_policejob"
+[14:22:52][matthijs] executed "restart esx_policejob"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/24/2024, 2:23:05 PM
+================================================================
+[14:24:22][matthijs] logged in from 89.99.67.196 via cfxre
+[14:27:19][jamie] logged in from 88.159.244.69 via cfxre
+[14:27:23][jamie] executed "fg unban 1"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/24/2024, 2:35:32 PM
+================================================================
+[14:46:18][matthijs] logged in from 89.99.67.196 via cfxre
+[15:00:56][jamie] logged in from 88.159.244.69 via cfxre
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/24/2024, 3:29:12 PM
+================================================================
+[15:35:18][jamie] logged in from 88.159.244.69 via cfxre
+[15:35:23][jamie] executed "fg unban 1"
+[15:35:48][Tijntjuh] logged in from 84.80.106.96 via cfxre
+[15:35:52][Tijntjuh] executed "RESTART SERVER"
+[15:37:27][Tijntjuh] executed "RESTART SERVER"
+[15:41:24][matthijs] logged in from 89.99.67.196 via cfxre
+[15:41:31][Tijntjuh] executed "refresh"
+[15:41:35][Tijntjuh] executed "ensure stadus_skills"
+[15:41:59][Tijntjuh] executed "refresh"
+[15:42:00][Tijntjuh] executed "ensure stadus_skills"
+[15:42:10][Tijntjuh] Warned player [3] Milann: NIGGER
+[15:42:20][Tijntjuh] Warned player [1] Jackdebruin123: NIGGA
+[15:48:32][jamie] executed "fg unban 1"
+[17:22:42][jamie] executed "fg unban 3"
+[17:42:21][jamie] executed "fg unban 4"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/24/2024, 5:50:14 PM
+================================================================
+[17:54:49][jamie] logged in from 88.159.244.69 via cfxre
+[17:55:21][jamie] Cancelling next scheduled restart.
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/24/2024, 5:56:32 PM
+================================================================
+[17:57:28][jamie] logged in from 88.159.244.69 via cfxre
+[17:58:35][jamie] Cancelling next scheduled restart.
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/24/2024, 6:00:27 PM
+================================================================
+[18:00:54][jamie] logged in from 88.159.244.69 via cfxre
+[18:03:51][jamie] executed "refresh"
+[18:40:53][matthijs] logged in from 89.99.67.196 via cfxre
+[18:41:07][matthijs] executed "restart esx_cruisecontrol"
+[18:42:25][matthijs] executed "restart esx_cruisecontrol"
+[18:45:03][matthijs] executed "fg unban 3"
+[18:45:44][matthijs] executed "fg unban 2"
+[18:45:46][matthijs] executed "fg unban 1"
+[18:52:46][matthijs] executed "restart fiveguard"
+[18:52:52][matthijs] executed "rerstart FIVEGUARD"
+[18:52:58][matthijs] executed "restart FIVEGUARD"
+[18:53:33][matthijs] executed "restart FIVEGUARD"
+[18:58:29][matthijs] executed "restart esx_drugs_sell"
+[19:02:14][matthijs] executed "restart esx_drugs_sell"
+[19:06:47][matthijs] executed "restart esx_drugs_sell"
+[19:11:43][matthijs] executed "restart esx_drugs_sell"
+[19:13:59][jaybully] Sending announcement: jerrydeepniggasex2009
+[19:14:17][jamie] executed "fg unban 1"
+[19:22:03][jaybully] logged in from 178.84.74.6 via password
+[19:22:18][matthijs] executed "restart wapenskins"
+[19:22:34][jaybully] executed "pm matthijs ambatukam"
+[19:22:36][matthijs] executed "restart wapenskins"
+[19:22:40][jaybully] executed "giverefund"
+[19:25:40][matthijs] executed "restart sanchezverhuur"
+[19:25:47][matthijs] executed "restart sanchezhuur"
+[19:26:47][matthijs] executed "restart sanchezhuur"
+[19:27:30][matthijs] executed "restart sanchezhuur"
+[19:27:40][matthijs] executed "restart sanchezhuur"
+[19:27:48][matthijs] executed "restart sanchezhuur"
+[19:27:56][matthijs] executed "restart sanchezhuur"
+[19:28:07][matthijs] executed "restart sanchezhuur"
+[19:28:18][matthijs] executed "restart sanchezhuur"
+[19:28:35][matthijs] executed "restart sanchezhuur"
+[19:28:41][matthijs] executed "restart sanchezhuur"
+[19:28:48][matthijs] executed "restart sanchezhuur"
+[19:28:54][matthijs] executed "restart sanchezhuur"
+[19:29:03][matthijs] executed "restart sanchezhuur"
+[19:29:10][matthijs] executed "restart sanchezhuur"
+[19:29:19][matthijs] executed "restart sanchezhuur"
+[19:29:31][matthijs] executed "restart sanchezhuur"
+[19:29:46][matthijs] executed "restart sanchezhuur"
+[19:30:10][matthijs] executed "restart sanchezhuur"
+[19:30:21][matthijs] executed "restart sanchezhuur"
+[19:30:43][matthijs] executed "restart sanchezhuur"
+[19:30:48][matthijs] executed "restart sanchezhuur"
+[19:31:02][matthijs] executed "restart sanchezhuur"
+[19:31:15][matthijs] executed "restart sanchezhuur"
+[19:31:21][matthijs] executed "restart sanchezhuur"
+[19:33:36][matthijs] executed "restart esx_policejob"
+[19:33:45][matthijs] executed "start esx_policejob"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/24/2024, 7:38:12 PM
+================================================================
+[19:38:42][matthijs] logged in from 89.99.67.196 via cfxre
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/24/2024, 7:41:58 PM
+================================================================
+[19:43:37][matthijs] logged in from 89.99.67.196 via cfxre
+[19:45:27][matthijs] executed "refresh"
+[19:45:37][matthijs] executed "refresh"
+[19:45:42][jamie] logged in from 88.159.244.69 via cfxre
+[19:45:52][jamie] executed "setgroup 3 beheerteam"
+[19:46:56][jaybully] executed "setgroup"
+[19:49:49][matthijs] executed "restart esx_policejob"
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/24/2024, 7:55:49 PM
+================================================================
+[19:56:14][matthijs] logged in from 89.99.67.196 via cfxre
+[19:58:11][jamie] logged in from 88.159.244.69 via cfxre
+[19:58:28][jamie] executed "setgroup 1 beheerteam"
+[20:00:43][matthijs] executed "."
+[20:02:15][matthijs] executed "restart stadus_skills"
+[20:03:01][matthijs] executed "restart stadus_skills"
+[20:03:29][matthijs] executed "restart stadus_skills"
+[20:03:56][matthijs] executed "restart stadus_skills"
+[20:07:52][jamie] executed "setgroup 1 superadmin"
+[20:26:53][matthijs] executed "refresh"
+[20:30:24][matthijs] executed "restart driveby"
+[20:32:59][matthijs] executed "refresh"
+[21:15:29][jamie] executed "RESTART SERVER"
+[21:15:57][jamie] executed "refresh"
+[21:19:13][jamie] executed "RESTART SERVER"
+[21:23:07][jamie] executed "restart weapondeleter"
+[21:25:54][jamie] executed "refresh"
+[21:26:25][jamie] executed "RESTART SERVER"
+[21:38:26][jamie] executed "RESTART SERVER"
+[21:50:30][jamie] executed "setgroup 1 user"
+[21:50:52][jamie] executed "setgroup 1 mod"
+[21:58:05][jamie] Changing discordBot settings.
+
+================================================================
+======== txAdmin v7.1.0 atop fxserver 8052 Starting - 5/24/2024, 9:58:54 PM
+================================================================
+[22:01:33][jamie] logged in from 88.159.244.69 via cfxre
+[22:01:38][jamie] executed "setgroup 1 mod"
+[23:23:26][jamie] executed "RESTART SERVER"
+[23:26:03][jamie] Changing Player Manager settings.
+[23:26:05][jamie] Changing Player Manager settings.
